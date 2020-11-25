@@ -41,9 +41,14 @@ A. The IP is stored with the record of daily usage of the application password. 
 ### Q. What are the expansion plans for application passwords?
 A. At this time, there is a plugin established to prototype new features which could be included in core in a future release cycle. If you would like to be involved in the development of future features, you can find and contribute to the repository.  
 
-### Q. Why I can not see Application Passwords in my user profile in the Account Management section?
+### Q. Why can I not see Application Passwords in my user profile in the Account Management section?
+A. Your WordPress site administrator has the ability to limit the scope of which users have access to application passwords through the use of  wp_is_application_passwords_available_for_user filter. Alternatively, If your site is not served over SSL, the feature will not be available and therein does not show within the user profile screen.
+
 
 ### Q. I don’t have any applications, can I switch application passwords REST API endpoint off?
+A Using the filter provided, you can set that filter to always return false which will disable this feature for all users as illustrated below: 
+add_filter( 'wp_is_application_passwords_available', '__return_false' );
+
 Application passwords in 5.6 integration guide https://make.wordpress.org/core/2020/11/05/application-passwords-integration-guide/ 
 
 
