@@ -1,4 +1,4 @@
-Status: Versioon 2020/11/25. Finalization with the Release Squad. 
+**Status: Version 2020/11/25. Finalization with the Release Squad.
 
 # Twenty Twenty One Theme
 
