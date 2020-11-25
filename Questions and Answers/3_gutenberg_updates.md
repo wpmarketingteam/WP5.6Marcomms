@@ -83,7 +83,7 @@ Since the feature is an experimental feature you also need to detect the existen
 
 ### Q. Will there be documentation released for theme developers so we can react accordingly?
 
-Yes, there is a WordPress tutorial on how to create a block-based theme — https://developer.wordpress.org/block-editor/tutorials/block-based-themes/— .
+Yes, there is a WordPress tutorial on how to create a block-based theme — https://developer.wordpress.org/block-editor/tutorials/block-based-themes/ .
 
 The original GitHub documentation on what a block is based on the readme found in GitHub which details the structure layout and suggest functionality of a block-based theme — https://github.com/WordPress/gutenberg/blob/master/docs/designers-developers/developers/themes/block-based-themes.md
 
@@ -104,8 +104,6 @@ https://make.wordpress.org/core/2020/07/16/block-patterns-in-wordpress-5-5/
 
 
 #### Thanks to [Dika Fei](https://profiles.wordpress.org/jellypixel/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Olga Glekler](https://profiles.wordpress.org/oglekler/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/) and [Meher Bala](https://profiles.wordpress.org/meher/), for researching and working on this document, and to the teams that provided assistance. 
-
-
 
 
 
