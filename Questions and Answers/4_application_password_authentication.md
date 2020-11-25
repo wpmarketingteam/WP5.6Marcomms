@@ -6,6 +6,7 @@ Thanks to the REST API’s new Application Passwords authorization feature, thir
 
 ![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/application-password-screenshot.png "Application Password Screenshot")
 
+***
 
 ### Q. What is an application password?
 A. An application password is a password you can create inside your User Profile. If you give this password to another application, that application can use the password to authenticate to your WordPress site programmatically via REST API.
@@ -54,7 +55,7 @@ add_filter( 'wp_is_application_passwords_available', '__return_false' );
 
 Application passwords in 5.6 integration guide https://make.wordpress.org/core/2020/11/05/application-passwords-integration-guide/ 
 
-
+***
 
 #### Thanks to [Meg Phillips](https://profiles.wordpress.org/megphillips91/) , [Meher Bala](https://profiles.wordpress.org/meher/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/) and [Abha Thakor](https://profiles.wordpress.org/webcommsat/).
 
