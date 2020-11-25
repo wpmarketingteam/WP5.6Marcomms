@@ -1,3 +1,5 @@
+Status: Version 2020/11/25. Finalization with the Release Squad.
+
 # Gutenberg updates
 
 **(Please note: additional items are being added to this document by the team as information is available)**
