@@ -56,5 +56,5 @@ Application passwords in 5.6 integration guide https://make.wordpress.org/core/2
 
 
 
-## Thanks to [Meg Phillips](https://profiles.wordpress.org/megphillips91/) , [Meher Bala](https://profiles.wordpress.org/meher/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/) and [Abha Thakor](https://profiles.wordpress.org/webcommsat/).
+#### Thanks to [Meg Phillips](https://profiles.wordpress.org/megphillips91/) , [Meher Bala](https://profiles.wordpress.org/meher/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/) and [Abha Thakor](https://profiles.wordpress.org/webcommsat/).
 
