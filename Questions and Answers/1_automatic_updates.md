@@ -15,6 +15,7 @@ But now it will be accessible not only for developers but also via user interfac
 
 ### Q. Are auto-updates enabled by default?
 A. For new WordPress installations: yes, it’s enabled by default.
+
 For existing WordPress installations (if you are updating your existing site to 5.6): no, you must opt-in to enable Automatic updates for major WordPress Core releases. 
 
 Note: automatic updates for minor releases are enabled by default since WordPress 3.7.
@@ -51,7 +52,7 @@ A. Every WordPress site checks for updates twice a day. So after a new version o
 
 
 ### Q. I opted-in to auto-updates but they don’t work?
-A. To check for updates WordPress uses WP Cron, it handles all scheduled events for your installation. Make sure you don’t have it disabled and it’s operationable on your install.
+A. To check for updates WordPress uses [WP Cron] (https://developer.wordpress.org/plugins/cron/), it handles all scheduled events for your installation. Make sure you don’t have it disabled and it’s operationable on your install.
 
 
 ### Q. If I opt-in for automatic updates is it possible that my (or worse, my client’s site) site will crash on the next update?
