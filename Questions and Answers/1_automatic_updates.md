@@ -52,7 +52,7 @@ A. Every WordPress site checks for updates twice a day. So after a new version o
 
 
 ### Q. I opted-in to auto-updates but they don’t work?
-A. To check for updates WordPress uses [WP Cron] (https://developer.wordpress.org/plugins/cron/), it handles all scheduled events for your installation. Make sure you don’t have it disabled and it’s operationable on your install.
+A. To check for updates WordPress uses [WP Cron](https://www.google.com) (https://developer.wordpress.org/plugins/cron/), it handles all scheduled events for your installation. Make sure you don’t have it disabled and it’s operationable on your install.
 
 
 ### Q. If I opt-in for automatic updates is it possible that my (or worse, my client’s site) site will crash on the next update?
