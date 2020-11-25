@@ -90,7 +90,7 @@ The same way you can turn it off for an existing install through the newly intro
 
 ***
 
-### Thanks to [Sabrina Zeidan](https://profiles.wordpress.org/sabrinazeidan/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/) and [Meher Bala](https://profiles.wordpress.org/meher/).
+#### Thanks to [Sabrina Zeidan](https://profiles.wordpress.org/sabrinazeidan/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/) and [Meher Bala](https://profiles.wordpress.org/meher/).
 
 
 
