@@ -1,13 +1,13 @@
-**Status: Version 2020/11/25. Finalization with the Release Squad.**
+**Status:** Version 2020/11/25. Finalization with the Release Squad.
 
 # Automatic updates for major WordPress Core releases
-
-## Questions and Answers - aimed at supporting Non-Developers 
 
 ### Key documents
 https://make.wordpress.org/core/2020/11/24/core-major-versions-auto-updates-ui-changes-in-wordpress-5-6-correction/ 
 
 ***
+
+## Questions and Answers - aimed at supporting Non-Developers 
 
 ### Q. How is this different from what it was before?
 A. This feature follows plugins and themes auto-updates user interface which was shipped in WordPress 5.5.
