@@ -87,7 +87,10 @@ If you have enabled it before and changed your mind, just opt-out on the same Up
 The same way you can turn it off for an existing install through the newly introduced user interface in your WordPress Dashboard (Updates section) or [programmatically](https://make.wordpress.org/core/2020/11/24/core-major-versions-auto-updates-ui-changes-in-wordpress-5-6-correction/).
 
 
-##  Thanks to Sabrina Zeidan, Christopher Churchill, Abha Thakor and Meher Bala.
+
+## Thanks to [Sabrina Zeidan](https://profiles.wordpress.org/sabrinazeidan/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/) and [Meher Bala](https://profiles.wordpress.org/meher/).
+
+
 
 
 
