@@ -5,6 +5,8 @@
 ### Key documents
 https://make.wordpress.org/core/2020/11/24/core-major-versions-auto-updates-ui-changes-in-wordpress-5-6-correction/ 
 
+***
+
 ### Q. How is this different from what it was before?
 A. This feature follows plugins and themes auto-updates user interface which was shipped in WordPress 5.5.
 
@@ -74,7 +76,7 @@ A. You will receive an email notification saying “Your Site is Experiencing a 
 ### Q. Will I be able to roll back to the previous version? 
 This is not a recommended way to solve issues, but in case of emergency you could use one these plugins: https://wordpress.org/plugins/wp-downgrade/ or https://github.com/afragen/core-rollback/
 
-====================================================================================== 
+***
 
 ## Questions and Answers - aimed at supporting Developers
 
@@ -86,9 +88,9 @@ If you have enabled it before and changed your mind, just opt-out on the same Up
 ### Q. How do I turn it off for the new installs?
 The same way you can turn it off for an existing install through the newly introduced user interface in your WordPress Dashboard (Updates section) or [programmatically](https://make.wordpress.org/core/2020/11/24/core-major-versions-auto-updates-ui-changes-in-wordpress-5-6-correction/).
 
+***
 
-
-## Thanks to [Sabrina Zeidan](https://profiles.wordpress.org/sabrinazeidan/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/) and [Meher Bala](https://profiles.wordpress.org/meher/).
+### Thanks to [Sabrina Zeidan](https://profiles.wordpress.org/sabrinazeidan/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/) and [Meher Bala](https://profiles.wordpress.org/meher/).
 
 
 
