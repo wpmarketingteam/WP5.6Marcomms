@@ -52,7 +52,7 @@ A. Every WordPress site checks for updates twice a day. So after a new version o
 
 
 ### Q. I opted-in to auto-updates but they don’t work?
-A. To check for updates WordPress uses [WP Cron](https://www.google.com) (https://developer.wordpress.org/plugins/cron/), it handles all scheduled events for your installation. Make sure you don’t have it disabled and it’s operationable on your install.
+A. To check for updates WordPress uses [WP Cron](https://developer.wordpress.org/plugins/cron/), it handles all scheduled events for your installation. Make sure you don’t have it disabled and it’s operationable on your install.
 
 
 ### Q. If I opt-in for automatic updates is it possible that my (or worse, my client’s site) site will crash on the next update?
@@ -72,19 +72,19 @@ A. You will receive an email notification saying “Your Site is Experiencing a 
 
 
 ### Q. Will I be able to roll back to the previous version? 
-This is not a recommended way to solve issues, but in case of emergency you could use one these plugins:  https://wordpress.org/plugins/wp-downgrade/ or https://github.com/afragen/core-rollback/
+This is not a recommended way to solve issues, but in case of emergency you could use one these plugins: https://wordpress.org/plugins/wp-downgrade/ or https://github.com/afragen/core-rollback/
 
-=================================================================================================================================================
+====================================================================================== 
 
 ## Questions and Answers - aimed at supporting Developers
 
 ### Q. How do I disable automatic updates for core major versions?
 It’s disabled by default for existing installations.
-If you have enabled it before and changed your mind, just opt-out on the same Update section in your WordPress Dashboard. You also can use constants or filter to do it programmatically.
+If you have enabled it before and changed your mind, just opt-out on the same Update section in your WordPress Dashboard. You also can use [constants or filter](https://make.wordpress.org/core/2020/11/24/core-major-versions-auto-updates-ui-changes-in-wordpress-5-6-correction/)  to do it programmatically.
 
 
 ### Q. How do I turn it off for the new installs?
-The same way you can turn it off for an existing install through the newly introduced user interface in your WordPress Dashboard (Updates section) or programmatically.
+The same way you can turn it off for an existing install through the newly introduced user interface in your WordPress Dashboard (Updates section) or [programmatically](https://make.wordpress.org/core/2020/11/24/core-major-versions-auto-updates-ui-changes-in-wordpress-5-6-correction/).
 
 
 ##  Thanks to Sabrina Zeidan, Christopher Churchill, Abha Thakor and Meher Bala.
