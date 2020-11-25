@@ -4,15 +4,15 @@
 
 Thanks to the REST API’s new Application Passwords authorization feature, third-party apps can connect to your site seamlessly and securely. This new REST API feature lets you see what apps are connecting to your site and control what they do. 
 
-##Q. What is an application password?
+### Q. What is an application password?
 A. An application password is a password you can create inside your User Profile. If you give this password to another application, that application can use the password to authenticate to your WordPress site programmatically via REST API.
 
-33Q. How does granting an application password change how the WP REST API can be used?
+### Q. How does granting an application password change how the WP REST API can be used?
 A. Certain resources of the WordPress REST API are available without authentication. However, some resources require authentication. For example, a REST API can read public posts and pages on most WordPress sites without authentication in the same way as a person browsing the internet can read public posts and pages. Other resources are only available through authenticated REST API calls. 
 
 The application passwords feature in WordPress 5.6 allows applications to use Basic Authentication to access protected resources of the WordPress REST API. For example, if a site author provides an application password to an application that authorized application would be able to publish posts programmatically. To learn more about the WordPress REST API, please visit the REST API handbook. 
 
-##Q. Is the existing cookie-based authentication being removed?
+### Q. Is the existing cookie-based authentication being removed?
 A. The existing cookie-based authentication system is not being removed, and any custom authentication solutions provided by plugins should continue to operate normally. 
 
 ##Q. How does using the new application passwords benefit a WordPress developer?
