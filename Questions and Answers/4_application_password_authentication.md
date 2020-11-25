@@ -1,3 +1,5 @@
+Status: Version 2020/11/25. Finalization with the Release Squad.
+
 # Application Passwords authentication via REST API 
 
 ## Question and Answers for developers
