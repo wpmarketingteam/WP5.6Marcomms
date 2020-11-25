@@ -4,6 +4,7 @@
 
 ### Key reading
 https://make.wordpress.org/core/2020/11/04/whats-new-in-gutenberg-4-november/ 
+
 https://make.wordpress.org/core/2020/11/02/whats-next-in-gutenberg-november-2020/ 
 
 ***
