@@ -23,9 +23,9 @@ A: To test your site ready for jQuery:
 2. Then install the jQuery update text plugin: https://wordpress.org/plugins/wp-jquery-update-test/ 
 3. Now you need to configure the plugin by going to Plugins -> Test jQuery Updates 
 4. In the Test jQuery Updates plugin, set the options as below:
-a. jQuery version: Default (This will be the default jQuery version used in the WordPress Core)
-b. jQuery Migrate: Disable (Keep it disabled for WordPress 5.5.)
-c. jQuery UI version: Default
+ - jQuery version: Default (This will be the default jQuery version used in the WordPress Core)
+ - jQuery Migrate: Disable (Keep it disabled for WordPress 5.5.)
+ - jQuery UI version: Default
 
 More information on how to do this can be found on the plugin page: 
 https://wordpress.org/plugins/wp-jquery-update-test/
