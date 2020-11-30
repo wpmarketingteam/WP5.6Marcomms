@@ -59,6 +59,8 @@ This new theme has:
 
 1. It's own unique design patterns in line with modern trends.
 
+![Unique design patterns in 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-design-patterns.jpg "Unique design patterns in 2021 Theme")
+
 To find out more about patterns which were introduced in August 2020 in WordPress 5.5 go to: 
 https://github.com/wpmarketingteam/WP5.5/blob/main/Q%26A%20for%20non-technical%20users.md#section-4-block-patterns
 
