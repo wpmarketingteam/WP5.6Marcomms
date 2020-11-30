@@ -46,8 +46,8 @@ During this transition period, Plugin and theme authors are obliged to take it u
 ### Q: After updating to  the 5.6 version of WordPress I am experiencing issues regarding scripts and the unexpected behavior of elements on my site. What do I need to do?
 
 A: I updated to WordPress 5.6 and now something went wrong with scripts on my site
- -I updated to WordPress 5.6 and now I cannot save anything in the admin
- -I updated to WordPress 5.6 and sliders on my pages don’t work
+ - I updated to WordPress 5.6 and now I cannot save anything in the admin
+ - I updated to WordPress 5.6 and sliders on my pages don’t work
  - ETC
  
 The WordPress.org core team has put together a plugin to re-enable the first file that was removed in 5.5 to help mitigate these issues and give the plugin and theme authors time to perform the needed updates. This plugin is called “enable jQuery migrate helper” and can be found at: https://wordpress.org/plugins/enable-jquery-migrate-helper/
