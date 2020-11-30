@@ -70,23 +70,19 @@ https://github.com/wpmarketingteam/WP5.5/blob/main/Q%26A%20for%20non-technical%2
 
 You can choose the background color in the Customizer (check it below) and change color of text or background of a block in The Block Editor: 
 
-![Choose Background color in Customizer for 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/
-2021-choose-the-background-color.jpg  "Choose Background color in Customizer for 2021 Theme")
+![Choose Background color in Customizer for 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-choose-the-background-color.jpg  "Choose Background color in Customizer for 2021 Theme")
 
 ##### 3. Ability to give visitors the  possibility to switch to the Dark mode with one button
 
-![Dark Mode in 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/
-2021-switch-to-dark-mode.png  "Dark Mode in 2021 Theme")
+![Dark Mode in 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-switch-to-dark-mode.png  "Dark Mode in 2021 Theme")
 
 You can choose a background color and enable or disable this feature in the Customizer (Dashboard > Appearance > Customize > Colors & Dark Mode)
 
-![Dark Mode in 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/
-2021-dark-mode.png  "Dark Mode in 2021 Theme")
+![Dark Mode in 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-dark-mode.png  "Dark Mode in 2021 Theme")
 
 ##### 4. Highest level of Accessibility from WordPress default themes
 
-![Highest level of Accessibility in 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/
-2021-accessibility.png  "Highest level of Accessibility in 2021 Theme")
+![Highest level of Accessibility in 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-accessibility.png  "Highest level of Accessibility in 2021 Theme")
 
 These scores are also dependent on which plugins you have on your site as well, so be careful and do your research before choosing to install a plugin on your site.
 
