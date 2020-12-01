@@ -97,17 +97,21 @@ Try the Twenty Twenty One theme for yourself and discover its many benefits. The
 
 TwentyTwentyOne will include support for Dark Mode, with options for its use found within the customiser.
 
-image goes here....
+![Dark Mode in 2021 theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/dark-mode.png "Dark Mode in 2021 theme")
 
 As the information next to the option for Dark Mode explains, it allows the site to honour the users dark mode preferences on the device they are viewing your site on.
 
 Once enabled, the front end of the site will show a floating button to enable/disable dark mode.
 
-image goes here....
+![Dark Mode Floating button in the front end](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/dark-mode-buttons-in-front-end.png  "Dark Mode Floating button in the front end ")
 
 If a visitor to your site has dark mode enabled on their system preferences, the site will default to their chosen preference (dark mode on/off). While still having the option on the site to disable it, should they wish with this floating button.
 
 If you do enable dark mode, pay careful attention to any logos and graphics used on your site.
+
+![Logos and graphics to keep in mind when turning dark mode on](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/dark-mode-front-end-1.png "Logos and graphics to keep in mind when turning dark mode on")
+
+![Logos and graphics to keep in mind when turning dark mode on](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/dark-mode-front-end-2.png "Logos and graphics to keep in mind when turning dark mode on")
 
 ## Questions and Answers - aimed at supporting non-developers 
 
