@@ -1,6 +1,6 @@
 **Status: Version 2020/11/25. Finalization with the Release Squad.**
 
-# Twenty Twenty One Theme
+# Twenty Twenty One Theme 
 
 Introducing Twenty Twenty One which is the default theme with this release.
 https://make.wordpress.org/core/2020/09/23/introducing-twenty-twenty-one/
@@ -91,16 +91,33 @@ The WordPress community has a whole team devoted to accessibility which will be 
 Try the Twenty Twenty One theme for yourself and discover its many benefits. The Release Squad working with others across the project have done a lot of work on this theme and it’s a great step forward.
 
 
+***
 
+# Dark Mode In Twenty Twenty One Theme 
 
+TwentyTwentyOne will include support for Dark Mode, with options for its use found within the customiser.
 
+image goes here....
 
+As the information next to the option for Dark Mode explains, it allows the site to honour the users dark mode preferences on the device they are viewing your site on.
+
+Once enabled, the front end of the site will show a floating button to enable/disable dark mode.
+
+image goes here....
+
+If a visitor to your site has dark mode enabled on their system preferences, the site will default to their chosen preference (dark mode on/off). While still having the option on the site to disable it, should they wish with this floating button.
+
+If you do enable dark mode, pay careful attention to any logos and graphics used on your site.
+
+## Questions and Answers - aimed at supporting non-developers 
+
+You can use dark mode in the Twenty Twenty One theme by asking your developer or self-installing if you have administrator rights, the  dark mode. 
 
 
 ***
 
 
-#### Thanks to [Olga Glekler](https://profiles.wordpress.org/oglekler/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/) and [Meher Bala](https://profiles.wordpress.org/meher/) for researching and working on this document, and to the teams that provided assistance.
+#### Thanks to [Olga Glekler](https://profiles.wordpress.org/oglekler/), [Mark Smallman](https://profiles.wordpress.org/marks99/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/) and [Meher Bala](https://profiles.wordpress.org/meher/) for researching and working on this document, and to the teams that provided assistance.
 
 
 
