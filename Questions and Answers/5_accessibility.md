@@ -2,7 +2,7 @@
 
 # Accessibility
 
-Please note there is a Google document given to the Accessibility team and we are waiting to hear from them by Friday 4th Dec 2020 19h00 UTC
+**Please note there is a Google document given to the Accessibility team and we are waiting to hear from them by Friday 4th Dec 2020 19h00 UTC**
 
 ***
 
