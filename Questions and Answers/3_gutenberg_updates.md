@@ -1,6 +1,6 @@
-**Status:** Version 2020/11/25. Finalization with the Release Squad.
+**Status:** Version 2020/02/12. Finalization with the Release Squad.
 
-# Gutenberg updates
+# Gutenberg Updates
 
 **(Please note: additional items are being added to this document by the team as information is available)**
 
@@ -100,6 +100,25 @@ https://developer.wordpress.org/block-editor/developers/block-api/block-patterns
 
 Block patterns were introduced in WordPress Release 5.5. More on the block pattern registration and core block patterns
 https://make.wordpress.org/core/2020/07/16/block-patterns-in-wordpress-5-5/ 
+
+
+***
+
+# Gutenberg Gallery Block: Automatic alt tags from image captions
+
+If an image has a caption, but not an alt tag, WordPress will use that caption as a fallback alt tag. So visually impaired users —and others who use screen readers—can have something relevant that will tell them about the image. Of course, it’s really better if you write in a separate custom alt tag. [26082](https://github.com/WordPress/gutenberg/pull/26082)
+
+
+## Questions and Answers - aimed at supporting Non-Developers 
+
+### Q. Is this feature for all themes?
+A. Yes this feature is a core functionality and will be applicable to all free and premium themes.
+
+### Q. I have added a link to a text in the caption, does the link also get added to the alt tag?
+A. No, only the caption text is added as an alt tag in the image.
+
+### Q. If I have added a different caption and alt tag, does the alt tag get overridden?
+A. No. The alt tag remains the same as what you have added in the image.
 
 
 ***
