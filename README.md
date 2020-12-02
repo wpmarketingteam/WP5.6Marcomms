@@ -1,6 +1,6 @@
-# WP5.6Marcomms
+# WP5.6 Marcomms
 
-## Questions and Answers for Dev and Non-Dev
+### Questions and Answers for Dev and Non-Dev
 
 1) [Automatic updates for major WordPress Core releases](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/1_automatic_updates.md)
 
