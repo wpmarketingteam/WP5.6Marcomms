@@ -1,6 +1,6 @@
 **Status: Version 2020/11/25. Finalization with the Release Squad.**
 
-# PHP 8 Support
+# PHP 8.0 Support
 WordPress Core in its 5.6 release is taking the first step to support PHP 8.0, which is due out in late November 2020. It is a good time to start planning to migrate your WordPress products, services and sites to the latest PHP version.
 https://make.wordpress.org/core/2020/11/20/wordpress-5-6-field-guide/
 Many of your questions can be answered by reading this post on Core about how WordPress will be beta compatible with PHP 8.0. https://make.wordpress.org/core/2020/11/23/wordpress-and-php-8-0/ 
@@ -15,14 +15,14 @@ A. Terming it as beta-compatible acknowledges the hard work that has been done t
 WordPress will be “beta compatible” with PHP 8.0. The WordPress project has a long history of being compatible with new versions of PHP as soon as possible, and this release is no different. There has been many hours of work on parts of the  WordPress core. To enable WordPress to run 
 ***
 
-## Questions and Answers - aimed at supporting Developers 
+## Questions and Answers - aimed at supporting developers 
 
 ### Q: How do I update to PHP 8.0? 
-You’ll need to speak to your hosting provider about updating to php 8.
+You will need to speak to your hosting provider about updating to PHP 8.0 and the options you may have within the service.
 
 
 ### Q: How will this impact the plugins that are no longer maintained or  have not been updated for a long time? 
-Some plugins will work just fine with PHP 8.0, and some won’t. You will need to test your site first to ensure the plugins you use are compatible. If they aren’t you will have to find an alternative.
+Some plugins will work just fine with PHP 8.0, and some will not. You will need to test your site first to ensure the plugins you use are compatible. If they aren’t you will have to find an alternative.
 
 
 ### Q:  Should you update your WordPress project to PHP 8?
