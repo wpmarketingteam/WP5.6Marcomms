@@ -17,7 +17,7 @@ Currently, by default, WordPress auto-updates itself, but only for minor release
 The feature of auto-updating core to major versions has been in WordPress for years. 
 But now it will be accessible not only for developers but also via user interface located on the Updates screen. Therefore, site admin can opt-in to automatic updates for major versions easily and have their website automatically kept up to date with each new version of WordPress.
 
-![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions and Answers/images/core-major-auto-updates-enabled-manually.png "Auto updates enabled manually Screenshot")
+![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/core-major-auto-updates-enabled-manually.png "Auto updates enabled manually Screenshot")
 
 
 ### Q. Are auto-updates enabled by default?
