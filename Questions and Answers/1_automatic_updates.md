@@ -71,7 +71,7 @@ Therefore, automatic updates feature is specifically aimed to improve the compat
 ### Q. I can’t see the Enable/Disable Auto-updates option in my WordPress admin?
 A. If you see the notice “This site will not receive automatic updates for new versions of WordPress” that is not followed by a link to enable automatic updates it might have been disabled by your host - you should contact them.
 
-![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions and Answers/images/core-auto-updates-disabled-programatically.png "Updates disabled programmatically Screenshot")
+![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/core-auto-updates-disabled-programatically.png "Updates disabled programmatically Screenshot")
 
 If you get the notice “This site appears to be under version control. Automatic updates are disabled.” it means you have some kind of version control software active on your website (can be handled in different ways - by plugins, cPanel, directly from your host etc) and auto-updates won’t be enabled.
 
@@ -90,7 +90,7 @@ This is not a recommended way to solve issues, but in case of emergency you coul
 It’s disabled by default for existing installations.
 If you have enabled it before and changed your mind, just opt-out on the same Update section in your WordPress Dashboard. You also can use [constants or filter](https://make.wordpress.org/core/2020/11/24/core-major-versions-auto-updates-ui-changes-in-wordpress-5-6-correction/)  to do it programmatically.
 
-![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions and Answers/images/core-major-auto-updates-default.png "Auto updates disabled Screenshot")
+![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/core-major-auto-updates-default.png "Auto updates disabled Screenshot")
 
 ### Q. How do I turn it off for the new installs?
 The same way you can turn it off for an existing install through the newly introduced user interface in your WordPress Dashboard (Updates section) or [programmatically](https://make.wordpress.org/core/2020/11/24/core-major-versions-auto-updates-ui-changes-in-wordpress-5-6-correction/).
@@ -98,24 +98,4 @@ The same way you can turn it off for an existing install through the newly intro
 ***
 
 #### Thanks to [Sabrina Zeidan](https://profiles.wordpress.org/sabrinazeidan/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/) and [Meher Bala](https://profiles.wordpress.org/meher/).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
