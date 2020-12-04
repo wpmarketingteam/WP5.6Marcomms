@@ -72,7 +72,7 @@ You can choose the background color in the Customizer (check it below) and chang
 
 ![Choose Background color in Customizer for 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-choose-the-background-color.jpg  "Choose Background color in Customizer for 2021 Theme")
 
-##### 3. Ability to give visitors the  possibility to switch to the Dark mode with one button
+#### 3. Ability to give visitors the  possibility to switch to the Dark mode with one button
 
 ![Dark Mode in 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-switch-to-dark-mode.png  "Dark Mode in 2021 Theme")
 
@@ -80,7 +80,7 @@ You can choose a background color and enable or disable this feature in the Cust
 
 ![Dark Mode in 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-dark-mode.png  "Dark Mode in 2021 Theme")
 
-##### 4. Highest level of Accessibility from WordPress default themes
+#### 4. Highest level of Accessibility from WordPress default themes
 
 ![Highest level of Accessibility in 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-accessibility.png  "Highest level of Accessibility in 2021 Theme")
 
