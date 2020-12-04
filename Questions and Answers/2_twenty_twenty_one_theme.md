@@ -113,6 +113,9 @@ If you do enable dark mode, pay careful attention to any logos and graphics used
 
 ![Logos and graphics to keep in mind when turning dark mode on](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/dark-mode-front-end-2.png "Logos and graphics to keep in mind when turning dark mode on")
 
+
+***
+
 ## Questions and Answers - aimed at supporting non-developers 
 
 You can use dark mode in the Twenty Twenty One theme by asking your developer or self-installing if you have administrator rights, the  dark mode. 
