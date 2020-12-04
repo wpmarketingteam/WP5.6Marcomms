@@ -2,7 +2,7 @@
 
 # oEmbed updates
 
-NOTE from Jonathan:
+**NOTE from Jonathan:**
 It does not look like any changes have been made to the list of providers supported by oEmbed - https://core.trac.wordpress.org/browser/trunk/src/wp-includes/class-wp-oembed.php#L121 
 
 
@@ -11,6 +11,8 @@ It does not look like any changes have been made to the list of providers suppor
 ## Questions and Answers - aimed at supporting Non-Developers 
 
 ### Q. 
+
+
 ***
 
 ## Questions and Answers - aimed at supporting Developers 
