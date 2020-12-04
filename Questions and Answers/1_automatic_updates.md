@@ -17,6 +17,9 @@ Currently, by default, WordPress auto-updates itself, but only for minor release
 The feature of auto-updating core to major versions has been in WordPress for years. 
 But now it will be accessible not only for developers but also via user interface located on the Updates screen. Therefore, site admin can opt-in to automatic updates for major versions easily and have their website automatically kept up to date with each new version of WordPress.
 
+![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions and Answers/images/core-major-auto-updates-enabled-manually.png "Auto updates enabled manually Screenshot")
+
+
 ### Q. Are auto-updates enabled by default?
 A. For new WordPress installations: yes, it’s enabled by default.
 
@@ -68,8 +71,9 @@ Therefore, automatic updates feature is specifically aimed to improve the compat
 ### Q. I can’t see the Enable/Disable Auto-updates option in my WordPress admin?
 A. If you see the notice “This site will not receive automatic updates for new versions of WordPress” that is not followed by a link to enable automatic updates it might have been disabled by your host - you should contact them.
 
-If you get the notice “This site appears to be under version control. Automatic updates are disabled.” it means you have some kind of version control software active on your website (can be handled in different ways - by plugins, cPanel, directly from your host etc) and auto-updates won’t be enabled.
+![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions and Answers/images/core-auto-updates-disabled-programatically.png "Updates disabled programmatically Screenshot")
 
+If you get the notice “This site appears to be under version control. Automatic updates are disabled.” it means you have some kind of version control software active on your website (can be handled in different ways - by plugins, cPanel, directly from your host etc) and auto-updates won’t be enabled.
 
 ### Q. What if something goes wrong during automatic update? 
 A. You will receive an email notification saying “Your Site is Experiencing a Technical Issue” just like in any other case of technical issues.
@@ -86,6 +90,7 @@ This is not a recommended way to solve issues, but in case of emergency you coul
 It’s disabled by default for existing installations.
 If you have enabled it before and changed your mind, just opt-out on the same Update section in your WordPress Dashboard. You also can use [constants or filter](https://make.wordpress.org/core/2020/11/24/core-major-versions-auto-updates-ui-changes-in-wordpress-5-6-correction/)  to do it programmatically.
 
+![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions and Answers/images/core-major-auto-updates-default.png "Auto updates disabled Screenshot")
 
 ### Q. How do I turn it off for the new installs?
 The same way you can turn it off for an existing install through the newly introduced user interface in your WordPress Dashboard (Updates section) or [programmatically](https://make.wordpress.org/core/2020/11/24/core-major-versions-auto-updates-ui-changes-in-wordpress-5-6-correction/).
