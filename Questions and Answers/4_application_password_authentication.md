@@ -4,7 +4,7 @@
 
 ***
 
-Thanks to the REST API’s new Application Passwords authorization feature, third-party apps can connect to your site seamlessly and securely. This new REST API feature lets you see what apps are connecting to your site and control what they do. 
+WordPress 5.6 brings  a new Application Passwords authorization feature in the REST API, allows third-party apps to connect to your site seamlessly and securely. This exciting REST API feature also lets you see what apps are connecting to your site and control what they do.
 
 ![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/application-password-screenshot.png "Application Password Screenshot")
 
