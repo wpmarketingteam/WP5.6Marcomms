@@ -63,7 +63,7 @@ Application passwords in 5.6 integration guide https://make.wordpress.org/core/2
 
 ***
 
-#### Thanks to [Angela Jin](https://profiles.wordpress.org/angelasjin/) and [Daisy Olsen](https://profiles.wordpress.org/daisyo/) for Proofreading.
-
 #### Thanks to [Meg Phillips](https://profiles.wordpress.org/megphillips91/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Meher Bala](https://profiles.wordpress.org/meher/), and [Abha Thakor](https://profiles.wordpress.org/webcommsat/).
+
+#### Thanks to [Angela Jin](https://profiles.wordpress.org/angelasjin/) and [Daisy Olsen](https://profiles.wordpress.org/daisyo/) for Proofreading.
 
