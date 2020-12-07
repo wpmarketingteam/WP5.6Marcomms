@@ -2,9 +2,7 @@
 
 # Accessibility
 
-These questions are from the accessibility team’s suggestions and based on search research of what end users are asking about. On this page, you will find answers for questions and answers for two audience segments: non technical user and developer. They will be published on HelpHub and Developer Hub accordingly. Please keep answers clear for a non technical user in that section.
-
-The answer drafts are from accessibility documents. They still need to be made clearer to understand to help these audiences engage with the improvements. 
+These questions are from the accessibility team’s suggestions and based on search research of what end users are asking about. On this page, you will find answers for questions and answers for two audience segments: non technical user and developer. 
 
 ***
 
