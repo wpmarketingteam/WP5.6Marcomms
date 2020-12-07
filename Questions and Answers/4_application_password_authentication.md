@@ -57,7 +57,7 @@ A. Your WordPress site administrator has the ability to limit the scope of which
 
 
 ### Q. I don’t have any applications, can I switch application passwords REST API endpoint off?
-A Using the filter provided, you can set that filter to always return false which will disable this feature for all users as illustrated below: add_filter( 'wp_is_application_passwords_available', '__return_false' );
+A Using the filter provided, you can set that filter to always return false which will disable this feature for all users as illustrated below: add_filter ( 'wp_is_application_passwords_available', '__return_false' );
 
 Application passwords in 5.6 integration guide https://make.wordpress.org/core/2020/11/05/application-passwords-integration-guide/ 
 
