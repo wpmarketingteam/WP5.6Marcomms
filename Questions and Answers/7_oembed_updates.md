@@ -1,4 +1,4 @@
-**Status: Version 2020/11/25. Finalization with the Release Squad.**
+**Status: Version 2020/11/25. This is being finalized with the Release Squad.**
 
 # oEmbed updates
 
