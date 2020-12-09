@@ -1,4 +1,4 @@
-**Status:** Version 2020/02/12. Finalization with the Release Squad.
+**Status:** Version 2020/02/12. This is finalized with the Release Squad.
 
 # Gutenberg Updates
 
