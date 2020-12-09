@@ -1,4 +1,4 @@
-**Status:** Version 2020/12/07. Finalization with the Release Squad.
+**Status:** Version 2020/12/07. This is being finalized with the release squad.
 
 # Application Passwords authentication via REST API 
 
