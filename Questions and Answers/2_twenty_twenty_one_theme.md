@@ -124,7 +124,7 @@ You can use dark mode in the Twenty Twenty One theme by asking your developer or
 ***
 
 
-#### Thanks to [Olga Glekler](https://profiles.wordpress.org/oglekler/), [Mark Smallman](https://profiles.wordpress.org/marks99/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/) and [Meher Bala](https://profiles.wordpress.org/meher/) for researching and working on this document, and to the teams that provided assistance.
+#### Thanks to [Olga Glekler](https://profiles.wordpress.org/oglekler/), [Mark Smallman](https://profiles.wordpress.org/marks99/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/), [Meher Bala](https://profiles.wordpress.org/meher/) for researching and working on this document, and to the teams that provided assistance. Thanks to [Angela Jin](https://profiles.wordpress.org/angelasjin/), [Daisy Oslen](https://profiles.wordpress.org/daisyo/) and all the release squad members who have provided input.
 
 
 
