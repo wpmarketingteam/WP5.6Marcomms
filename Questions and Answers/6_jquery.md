@@ -50,8 +50,13 @@ A: I updated to WordPress 5.6 and now something went wrong with scripts on my si
  - I updated to WordPress 5.6 and sliders on my pages don’t work
  - ETC
  
-The WordPress.org core team has put together a plugin to re-enable the first file that was removed in 5.5 to help mitigate these issues and give the plugin and theme authors time to perform the needed updates. This plugin is called “enable jQuery migrate helper” and can be found at: https://wordpress.org/plugins/enable-jquery-migrate-helper/
+The WordPress.org core team has put together a plugin to re-enable the first file that was removed in 5.5 to help mitigate these issues and give the plugin and theme authors time to perform the needed updates. This plugin is called “Enable jQuery Migrate Helper” and can be found at: https://wordpress.org/plugins/enable-jquery-migrate-helper/
 After installing this plugin, many people have found that a lot of the errors they have developed during the 5.5 update have disappeared.
+
+![Enable jQuery Migrate Helper plugin settins page](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/jquery-migrate-plugin.png  "Enable jQuery Migrate Helper plugin settins page")
+
+
+After installation of the plugin to reverse changes in WordPress 5.6, you need to go to “Dashboard > Tools > jQuery Migrate” and change jQuery Version to “Legacy 1.12.4-wp”. 
 
 
 ### Q: How do I make sure my plugins / themes are ready for the new jQuery version? 
