@@ -51,12 +51,13 @@ More details about this work can be found under the heading ‘Experiments’ in
 
 
 ### Q. How do I enable and try Full Site Editing?
-A. For starters, please only test this feature on a test or development site since this feature is still experimental. To do so on a test site, you only need to install and enable the Gutenberg plugin while using a block based theme. Of note, the Full Site Editing experiment will automatically be enabled if you’re using a block- based theme. Here are three options for current block-based themes: 
+A. For starters, please only test this feature on a test or development site since this feature is still experimental. To do so on a test site, you only need to install and enable the Gutenberg plugin while using a block based theme. Of note, the Full Site Editing experiment will automatically be enabled if you’re using a block- based theme. 
 
-https://wordpress.org/themes/q/  
-https://wordpress.org/themes/block-based-bosco/
+Here are three options for current block-based themes:
+- https://wordpress.org/themes/q/  
+- https://wordpress.org/themes/block-based-bosco/
+- You can find more experimental [block-based themes here too](https://github.com/WordPress/theme-experiments). 
 
-You can find more experimental block-based themes here too. 
 
 
 ### Q. How do I know that my theme supports Full Site Editing?
@@ -88,11 +89,17 @@ A. You will want to create a Block-based theme as described on this document: ht
 Since the feature is currently experimental, you will also need to detect the existence of Gutenberg prior to enabling Full Site Editing. For this to happen, your theme needs to contain a folder called block-templates with a file called index.html within it. For more information, check out this Pull Request. 
 
 
+
+
 ### Q. Will there be documentation released for theme developers so we can be more prepared for FSE?
 
 A. Yes! There is a WordPress tutorial on how to create a block-based theme — https://developer.wordpress.org/block-editor/tutorials/block-based-themes/  .
 
 The original GitHub documentation on what a block is also describes the structure layout and functionality of a block-based theme — https://github.com/WordPress/gutenberg/blob/master/docs/designers-developers/developers/themes/block-based-themes.md 
+
+
+
+
 
 
 ### Q. What is the difference between a block pattern and a reusable block?
