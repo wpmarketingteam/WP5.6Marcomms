@@ -20,7 +20,7 @@ To learn more about how to make the most of what the block editor has to offer, 
 
 
 ### Q. I still use the Classic Editor, will this new update affect it?
-A. No, the classic editor plugin will continue to be maintained until 2022. In the Writing Settings of your site, you can decide which editor to use for each page or post. Alternatively, you can use the classic block available in the Block Editor:: https://wordpress.org/support/article/classic-block/ 
+A. No, the classic editor plugin will continue to be maintained until 2022. In the Writing Settings of your site, you can decide which editor to use for each page or post. Alternatively, you can use the classic block available in the Block Editor: https://wordpress.org/support/article/classic-block/ 
 
 
 ### Q. Can I still use a  third-party page builder?
@@ -84,9 +84,12 @@ A. The customizer and widgets screens will remain available for themes created u
 
 
 ### Q. How do I enable Full Site Editing on my theme?
+
 A. You will want to create a Block-based theme as described on this document: https://github.com/WordPress/gutenberg/blob/master/docs/designers-developers/developers/themes/block-based-themes.md 
 
-Since the feature is currently experimental, you will also need to detect the existence of Gutenberg prior to enabling Full Site Editing. For this to happen, your theme needs to contain a folder called block-templates with a file called index.html within it. For more information, check out this Pull Request. 
+Since the feature is currently experimental, you will also need to detect the existence of Gutenberg prior to enabling Full Site Editing. For this to happen, your theme needs to contain a folder called block-templates with a file called index.html within it. 
+
+For more information, [check out this Pull Request] (https://github.com/WordPress/gutenberg/pull/26500). 
 
 
 
@@ -118,32 +121,30 @@ Block patterns were introduced in WordPress Release 5.5. More on the block patte
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ***
 
 # Gutenberg Gallery Block: Automatic alt tags from image captions
 
 
+If an image has a caption, but not an alt tag, WordPress will use that caption as a fallback alt tag. This means that visually impaired users —and others who use screen readers—can have a relevant description of the image. However, it is recommended as a best practice to write in a separate custom alt tag. 
+
+## Questions and Answers - aimed at supporting Non-Developers
+
+
+### Q. I have added a link to a text in the caption. Does the link also get added to the alt tag?
+A. Nope, only the caption text is added as an alt tag in the image.
+
+
+### Q. If I have added a different caption and alt tag, does the alt tag get overridden?
+A. Nope. The alt tag remains the same as what you have added in the image.
+
+
 
 
 ***
 
 
-#### Thanks to [Dika Fei](https://profiles.wordpress.org/jellypixel/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Olga Glekler](https://profiles.wordpress.org/oglekler/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/) and [Meher Bala](https://profiles.wordpress.org/meher/), for researching and working on this document, and to the teams that provided assistance. 
+#### Thanks to all members of the release squad, [Angela Jin](https://profiles.wordpress.org/angelasjin/), [Daisy Olsen](https://profiles.wordpress.org/daisyo/), [Anne McCarthy] (https://profiles.wordpress.org/annezazu/), [Dika Fei](https://profiles.wordpress.org/jellypixel/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Olga Glekler](https://profiles.wordpress.org/oglekler/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/) and [Meher Bala](https://profiles.wordpress.org/meher/), for researching and working on this document, and to the teams that provided assistance. 
 
 
 
