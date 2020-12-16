@@ -89,7 +89,7 @@ A. You will want to create a Block-based theme as described on this document: ht
 
 Since the feature is currently experimental, you will also need to detect the existence of Gutenberg prior to enabling Full Site Editing. For this to happen, your theme needs to contain a folder called block-templates with a file called index.html within it. 
 
-For more information, [check out this Pull Request] (https://github.com/WordPress/gutenberg/pull/26500). 
+For more information, [check out this Pull Request](https://github.com/WordPress/gutenberg/pull/26500). 
 
 
 
