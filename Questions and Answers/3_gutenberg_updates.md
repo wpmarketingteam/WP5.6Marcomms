@@ -10,13 +10,16 @@
 
 ### Reminder: Resources for Using the Block Editor Reminder: Resources for Using the Block Editor 
 
-The Block Editor can help you produce nice layouts for your content with tons of blocks and block patterns that offer you an easy way to use multiple blocks at once. With the new Block Directory , you can also add new blocks into your Block Editor seamlessly. To learn more about how to make the most of what the block editor has to offer, check out the following resources:
+The Block Editor can help you produce nice layouts for your content with tons of blocks and block patterns that offer you an easy way to use multiple blocks at once. With the new Block Directory , you can also add new blocks into your Block Editor seamlessly. 
 
--Adding a new block: https://wordpress.org/support/article/adding-a-new-block/ 
--Blocks: https://wordpress.org/support/article/blocks/ 
--Block Directory: https://wordpress.org/support/article/block-directory/ 
+To learn more about how to make the most of what the block editor has to offer, check out the following resources:
+Adding a new block: https://wordpress.org/support/article/adding-a-new-block/ 
+Blocks: https://wordpress.org/support/article/blocks/ 
+Block Directory: https://wordpress.org/support/article/block-directory/ 
 
-
+- George Washington
+- John Adams
+- Thomas Jefferson
 
 
 ***
