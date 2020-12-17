@@ -33,26 +33,26 @@ it is highly recommended that you thoroughly test your site before upgrading to 
 https://make.wordpress.org/core/2020/11/23/wordpress-and-php-8-0/
 
 
-### Q: Will Updating to PHP 8 Break WordPress Sites?
+### Q: Will Updating to PHP 8.0 Break WordPress Sites?
 As long as your plugins are compatible with PHP 8.0, you shouldn’t have an issue with updating to PHP 8.0, but you should ask your host to test this for you prior to updating. 
 
 
-### Q: Speed wise what are the benefits of moving to PHP 8?
+### Q: Speed wise what are the benefits of moving to PHP 8.0?
 There are a lot of underlying improvements with regards to PHP 8, one of the main ones will allow PHP 8.0 to run faster due to it compiling the code and running it directly on the CPU. This is called J(ust) i(n) T(ime).
 
 The “just in time” compiler promises speed improvements for complex tasks and algorithms and opens new opportunities for the PHP language to broaden its reach and applications.
 
 
-### Q: What if my host does not support PHP 8 ?
+### Q: What if my host does not support PHP 8.0?
 You should try and contact your host to ask them when they plan on moving up to PHP 8.0, most hosts should be on at least PHP version 7.3, the previous version PHP 7.2 came to the end of it’s life on 30 November 2020.  You can find up to date information with regards to which versions are currently supported here: 
 https://www.php.net/supported-versions.php
 
 
-### Q: Are there any security concerns with WordPress 5.6 and PHP 8?
+### Q: Are there any security concerns with WordPress 5.6 and PHP 8.0?
 PHP 5.6 came to the end of its life on 31 December 2018. You should try and keep your PHP as up to date as possible to try and mitigate any potential bugs or vulnerabilities. 
 
 
-### Q: Where can I find out more information about PHP 8? 
+### Q: Where can I find out more information about PHP 8.0? 
 There are two main resources at the moment to read up about PHP 8.0 and some of the issues facing WordPress during this update, Yoast have written up a highly technical report: 
  
 The core team has provided a write up: https://make.wordpress.org/core/2020/11/23/wordpress-and-php-8-0/
