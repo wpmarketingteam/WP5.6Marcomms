@@ -72,14 +72,19 @@ A. If you lose your internet connection, it has no effect on the automatic updat
 
 ## Questions and Answers - aimed at supporting Developers
 
-### Q. How do I disable automatic updates for core major versions?
-It’s disabled by default for existing installations.
+### Q1. How do I disable automatic updates for core major versions?
+A. It’s disabled by default for existing installations.
 If you have enabled it before and changed your mind, just opt-out on the same Update section in your WordPress Dashboard. You also can use [constants or filter](https://make.wordpress.org/core/2020/11/24/core-major-versions-auto-updates-ui-changes-in-wordpress-5-6-correction/)  to do it programmatically.
 
 ![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/core-major-auto-updates-default.png "Auto updates disabled Screenshot")
 
-### Q. How do I turn it off for the new installs?
-The same way you can turn it off for an existing install through the newly introduced user interface in your WordPress Dashboard (Updates section) or [programmatically](https://make.wordpress.org/core/2020/11/24/core-major-versions-auto-updates-ui-changes-in-wordpress-5-6-correction/).
+### Q2. How do I turn it off for the new installs?
+A. The same way you can turn it off for an existing install through the newly introduced user interface in your WordPress Dashboard (Updates section) or [programmatically](https://make.wordpress.org/core/2020/11/24/core-major-versions-auto-updates-ui-changes-in-wordpress-5-6-correction/).
+
+### Q3. What if I am developing locally and I run automatic updates?
+A. These updates are performed between the virtual server on your system, and the server the plugins are being updated from. So if you are developing your site locally, and lose your connection (I.E You lose your connection to the web or you lose power etc)  or don’t have a connection during an auto update it will fail. You need to ensure you have a good stable connection to the web during updates.
+
+
 
 ***
 
