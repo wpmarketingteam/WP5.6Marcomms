@@ -11,6 +11,46 @@ https://make.wordpress.org/core/2020/11/24/core-major-versions-auto-updates-ui-c
 
 ## Questions and Answers - aimed at supporting Non-Developers 
 
+### Q1. What does “Automatic Updates for major WordPress Core releases” mean for my website?
+A. Automatic updates, often referred to as auto-updates, enables WordPress software to update itself to the latest version automatically. This means you will not need to check and install updates manually! Currently, and since version 3.7, WordPress by default will auto-update for minor releases. With the latest release of WordPress software, version 5.6, WordPress can  be configured to automatically update for major versions as well.
+With 5.6, WordPress users will be able to opt-in or out of auto-updates for major WordPress software releases. This is done through the Updates screen in your WordPress Dashboard, and any site administrator can manage this new feature.
+
+![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/core-major-auto-updates-enabled-manually.png "Auto updates enabled manually Screenshot")
+
+### Q2. Are auto-updates enabled by default?
+A. For any new WordPress 5.6 installation, auto-updates are enabled by default. This means that your WordPress site will continue to keep itself up to date with each new version of WordPress! 
+If you are updating your existing WordPress site to 5.6, you will need to opt-in to enable auto-updates for major WordPress Core releases. This can be done in the Updates screen in your WordPress dashboard. 
+If you do not want to have your site auto-update, you can also turn off this feature in the Updates screen in the Dashboard.
+Remember, auto-updates for minor releases are enabled by default since WordPress 3.7.
+
+
+### Q4. Will auto-updates affect my site?
+A. With a fresh install of WordPress 5.6, auto-updates will be enabled by default, meaning that your WordPress site will continue to regularly and automatically update to the latest minor and major versions of WordPress. You can choose to enable this feature if you are updating an existing site to WordPress 5.6. By enabling auto-updates, your website will always run the most secure version of WordPress available. 
+If you don’t opt in to auto-updates, or, if you turn this feature off, your WordPress site will not be updated to the latest version unless you do so manually. 
+
+
+## Q5. If I enable auto-updates for major WordPress core updates, will all my themes and plugins be updated automatically too?
+A. No, they will not. Auto-updates for major WordPress core updates is related to updating the WordPress core software only. Plugins and themes allow users to customize their website by extension of core WordPress software, which is why plugins and themes are not considered a part of the core software  However, you can enable auto-updates for individual themes and plugins by turning on that setting in the Themes and Plugins sections in your Dashboard.
+
+
+## Q6. Will my existing WordPress site be updated to the next major WordPress version automatically after 5.6?
+A. For existing WordPress sites, only if you update to WordPress 5.6 and turn on auto-updates for major releases! Otherwise, your website will not be updated to the next major WordPress version automatically.  
+
+
+## Q7. If I opt-in to auto-updates, will I know when my website gets updated to the latest version of WordPress?
+A. Yes! With auto-updates enabled, after the WordPress software updates itself to the latest version, you will receive an email notification. Notifications are sent to the email address saved as the administration email address, found under Settings-> General-> Administration Email Address. Please note that this email address could be different from the one which is saved as your user’s email address.
+
+
+## Q8. How soon will my WordPress be auto-updated after a new version is released?
+A. After a new version of WordPress is released, it will take no longer than 12 hours before it is auto-updated on your installation!
+
+
+## Q9. To be added
+
+## Q10. If I opt-in for automatic updates is it possible that my site will crash on the next update?
+A.  As WordPress is modular, there is a chance that something might not be compatible with something else, which may cause issues! To help address this, the WordPress Core team recommends that everything be updated to its recent versions.  This will help improve the compatibility of all elements that comprise your WordPress site, and lower the probability of issues like crashes.
+
+
 ### Q. How is this different from what it was before?
 A. This feature follows plugins and themes auto-updates user interface which was shipped in WordPress 5.5.
 
@@ -19,7 +59,7 @@ Currently, by default, WordPress auto-updates itself, but only for minor release
 The feature of auto-updating core to major versions has been in WordPress for years. 
 But now it will be accessible not only for developers but also via user interface located on the Updates screen. Therefore, site admin can opt-in to automatic updates for major versions easily and have their website automatically kept up to date with each new version of WordPress.
 
-![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/core-major-auto-updates-enabled-manually.png "Auto updates enabled manually Screenshot")
+
 
 
 ### Q. Are auto-updates enabled by default?
