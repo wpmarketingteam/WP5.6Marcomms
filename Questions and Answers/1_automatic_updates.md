@@ -105,5 +105,5 @@ You can download the latest version of themes and/or plugins, and replace their 
 
 ***
 
-#### Thanks to [Sabrina Zeidan](https://profiles.wordpress.org/sabrinazeidan/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/), [Meher Bala](https://profiles.wordpress.org/meher/), [Olga Glekler](https://profiles.wordpress.org/oglekler/), [Angela Jin](https://profiles.wordpress.org/angelasjin/), [Daisy Oslen](https://profiles.wordpress.org/daisyo/) and all the release squad members who have given input into this document.
+#### Thanks to [Sabrina Zeidan](https://profiles.wordpress.org/sabrinazeidan/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/), [Meher Bala](https://profiles.wordpress.org/meher/), [Olga Glekler](https://profiles.wordpress.org/oglekler/), [Angela Jin](https://profiles.wordpress.org/angelasjin/), [Daisy Oslen](https://profiles.wordpress.org/daisyo/), [Shanta Nathwani](https://profiles.wordpress.org/tantienhime/) and all the release squad members who have given input into this document.
 
