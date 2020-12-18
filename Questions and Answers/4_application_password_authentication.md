@@ -13,16 +13,19 @@ Please visit the [Applications Passwords Integration Guide](https://make.wordpre
 
 ## Question and Answers - aimed at supporting Developers
 
-### Q. What is an application password?
+### Q1. What is an application password?
 A. An application password is a password that you can create inside your User Profile for each WordPress website. If you give this password to another application, that application can use the password to authenticate to your WordPress site programmatically through the REST API.
 
-### Q. How does granting an application password change how the WordPress REST API can be used?
+### Q2. How does granting an application password change how the WordPress REST API can be used?
 A. Certain resources of the WordPress REST API are available without authentication. However, some resources require authentication. For example, a REST API can read public posts and pages on most WordPress sites without authentication in the same way as a person browsing the internet can read public posts and pages. Other resources are only available through authenticated REST API calls.
 
 The application passwords feature in WordPress 5.6 allows applications to use [Basic Authentication](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication)  to access protected resources of the WordPress REST API. For instance, if a site author provides an application password to an application, that authorized application would be able to publish posts programmatically. To learn more about the WordPress REST API, please visit the [REST API handbook](https://developer.wordpress.org/rest-api/).
 
-### Q. Is the existing cookie-based authentication being removed?
-A. No. The existing cookie-based authentication system is not being removed, and any custom authentication solutions provided by plugins should continue to operate normally.
+### Q3. Is the existing cookie-based authentication being removed?
+A. No. The existing cookie-based authentication system is not being removed. All  properly implemented authentication solutions provided by plugins will continue to operate normally.
+[Developer information on using the REST API Authentication] (https://developer.wordpress.org/rest-api/using-the-rest-api/authentication/)
+ 
+[Information on related functions] (https://developer.wordpress.org/reference/functions/wp_set_auth_cookie/)
 
 
 ### Q. How does using the new application passwords benefit a WordPress developer?
