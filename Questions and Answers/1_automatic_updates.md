@@ -62,6 +62,12 @@ A. After updating to WordPress 5.6, if you see the notice “This site will not 
 If you get the notice “This site appears to be under version control. Automatic updates are disabled.” - this is not a standard feature.
 It means your website’s code might be managed by a version control system such as Git. In this case, please speak with your web developer. 
 
+
+
+## Q12. What if I lose my internet connection during an automatic update?
+
+A. If you lose your internet connection, it has no effect on the automatic updates. This is done completely independently of whether you are accessing the site or not. The updates are automatic, once they are set up, they need no interaction from your part.
+
 ***
 
 ## Questions and Answers - aimed at supporting Developers
