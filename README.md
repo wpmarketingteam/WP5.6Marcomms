@@ -1,4 +1,5 @@
 # WP5.6 Marcomms
+These are in draft and based on the information on WordPress.org. 
 
 ### Questions and Answers for Dev and Non-Dev
 
