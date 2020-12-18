@@ -8,7 +8,74 @@ https://make.wordpress.org/core/2020/09/23/introducing-twenty-twenty-one/
 
 ***
 
-## Questions and Answers - aimed at supporting Developers 
+## Questions and Answers - aimed at supporting non-developers 
+
+### Q1 What is the difference between WordPress theme Twenty Twenty and Twenty Twenty-One?
+A. Both themes have high levels of accessibility and performance and follow good practice. Just like other WordPress default themes, they receive the necessary updates to be fully compatible with the latest WordPress version.
+
+The main reason to choose the new Twenty Twenty-One theme is its modern design, freshness and flexibility. Twenty Twenty-One adds beautifully styled block patterns, block styles, and a custom color palette to make adding content to your site easy. This theme has a new color palette with pastel colors ideal for different purposes from a photographer’s personal portfolio to a cosmetic store, or beauty blog. It is also the first time where the default WordPress theme has a Dark mode feature.  
+
+
+### Q2 What are the benefits of using a WordPress default theme Twenty Twenty-One? 
+
+This new theme has:
+
+#### 1. A unique design pattern in line with modern trends.
+
+![Unique design patterns in 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-design-patterns.jpg "Unique design patterns in 2021 Theme")
+
+To find out more about patterns which were introduced in August 2020 in WordPress 5.5 go to [this link](https://github.com/wpmarketingteam/WP5.5/blob/main/Q%26A%20for%20non-technical%20users.md#section-4-block-patterns)
+
+#### 2. New color palette with nice pastel colors
+
+![Color Palette for 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-new-color-palette.jpg "Color Palette for 2021 Theme")
+
+You can choose the background color in the Customizer (check it below) and change color of text or background of a block in The Block Editor.
+
+![Choose Background color in Customizer for 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-choose-the-background-color.jpg  "Choose Background color in Customizer for 2021 Theme")
+
+#### 3. Ability to give visitors the possibility to switch to the Dark mode with one button
+
+![Dark Mode in 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-switch-to-dark-mode.png  "Dark Mode in 2021 Theme")
+
+You can choose a background color and enable or disable this feature in the Customizer (Dashboard > Appearance > Customize > Colors & Dark Mode)
+
+![Dark Mode in 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-dark-mode.png  "Dark Mode in 2021 Theme")
+
+#### 4. Highest level of Accessibility from WordPress default themes
+
+![Highest level of Accessibility in 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-accessibility.png  "Highest level of Accessibility in 2021 Theme")
+
+While the Twenty Twenty One theme is of this highest accessibility level, accessibility of your site will also depend on which plugins you install. The WordPress Accessibility team recommends that you review all plugins for accessibility before installing them on your site. [These scores](https://web.dev/accessibility-scoring/) are also dependent on which plugins you have on your site as well, so be careful and do your research before choosing to install a plugin on your site.
+
+The WordPress community has a whole team devoted to accessibility which will be celebrating its 10th anniversary in 2021. If you want to find more about their work or to and get involved, [visit](https://make.wordpress.org/accessibility/)
+
+Try the Twenty Twenty One theme for yourself and discover its many benefits. The Release Squad working with many other contributors across the WordPress open source project have done a lot of work on this theme and it’s an exciting step forward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Q.  How to create a Twenty Twenty One child theme?
 To create the child theme to Twenty Twenty-One you can follow that same steps as to create a child theme to any other theme: 
@@ -53,42 +120,6 @@ Both themes have high levels of accessibility and performance and follow good pr
 
 The main reason to choose the new Twenty Twenty-One theme is it’s modern design, freshness and flexibility. 
 
-### Q. What are the benefits of using a WordPress default theme Twenty Twenty-One? 
-
-This new theme has:
-
-#### 1. It's own unique design patterns in line with modern trends.
-
-![Unique design patterns in 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-design-patterns.jpg "Unique design patterns in 2021 Theme")
-
-To find out more about patterns which were introduced in August 2020 in WordPress 5.5 go to: 
-https://github.com/wpmarketingteam/WP5.5/blob/main/Q%26A%20for%20non-technical%20users.md#section-4-block-patterns
-
-#### 2. New color palette in nice pastel colors
-
-![Color Palette for 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-new-color-palette.jpg "Color Palette for 2021 Theme")
-
-You can choose the background color in the Customizer (check it below) and change color of text or background of a block in The Block Editor: 
-
-![Choose Background color in Customizer for 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-choose-the-background-color.jpg  "Choose Background color in Customizer for 2021 Theme")
-
-#### 3. Ability to give visitors the  possibility to switch to the Dark mode with one button
-
-![Dark Mode in 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-switch-to-dark-mode.png  "Dark Mode in 2021 Theme")
-
-You can choose a background color and enable or disable this feature in the Customizer (Dashboard > Appearance > Customize > Colors & Dark Mode)
-
-![Dark Mode in 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-dark-mode.png  "Dark Mode in 2021 Theme")
-
-#### 4. Highest level of Accessibility from WordPress default themes
-
-![Highest level of Accessibility in 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-accessibility.png  "Highest level of Accessibility in 2021 Theme")
-
-These scores are also dependent on which plugins you have on your site as well, so be careful and do your research before choosing to install a plugin on your site.
-
-The WordPress community has a whole team devoted to accessibility which will be celebrating its 10th birthday in 2021. If you want to find more about their work and get involved, visit: https://make.wordpress.org/accessibility/
-
-Try the Twenty Twenty One theme for yourself and discover its many benefits. The Release Squad working with others across the project have done a lot of work on this theme and it’s a great step forward.
 
 
 ***
