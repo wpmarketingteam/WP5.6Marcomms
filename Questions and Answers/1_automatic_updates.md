@@ -47,7 +47,7 @@ A. After a new version of WordPress is released, it will take no longer than 12 
 
 ## Q9.  I opted-in to auto-updates but they don’t work?
 A.  WordPress uses a tool called “WP Cron”, which handles scheduled events (such as regularly checking for the latest version of WordPress software!) for your website. If your auto-updates aren’t working,  You can check whether WP Cron is enabled via the site health  under dashboard tools as seen in this photo: 
-![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/wordpress-site-health-1.png "Shows the site health.")
+![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/auto-update-site-health-wp-cron-disabled.png "Shows the site health.")
 
 
 ## Q10. If I opt-in for automatic updates is it possible that my site will crash on the next update?
