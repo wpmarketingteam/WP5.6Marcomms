@@ -1,4 +1,4 @@
-**Status: Version 2020/12/04. This is being finalized with the Release Squad.**
+**Status: Version 2020/12/18. Finalized**
 
 Finalization with the Release Squad.
 
