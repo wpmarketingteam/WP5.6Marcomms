@@ -16,10 +16,12 @@ Please visit the [Applications Passwords Integration Guide](https://make.wordpre
 ### Q1. What is an application password?
 A. An application password is a password that you can create inside your User Profile for each WordPress website. If you give this password to another application, that application can use the password to authenticate to your WordPress site programmatically through the REST API.
 
+
 ### Q2. How does granting an application password change how the WordPress REST API can be used?
 A. Certain resources of the WordPress REST API are available without authentication. However, some resources require authentication. For example, a REST API can read public posts and pages on most WordPress sites without authentication in the same way as a person browsing the internet can read public posts and pages. Other resources are only available through authenticated REST API calls.
 
 The application passwords feature in WordPress 5.6 allows applications to use [Basic Authentication](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication)  to access protected resources of the WordPress REST API. For instance, if a site author provides an application password to an application, that authorized application would be able to publish posts programmatically. To learn more about the WordPress REST API, please visit the [REST API handbook](https://developer.wordpress.org/rest-api/).
+
 
 ### Q3. Is the existing cookie-based authentication being removed?
 A. No. The existing cookie-based authentication system is not being removed. All  properly implemented authentication solutions provided by plugins will continue to operate normally.
@@ -28,35 +30,42 @@ A. No. The existing cookie-based authentication system is not being removed. All
 [Information on related functions] (https://developer.wordpress.org/reference/functions/wp_set_auth_cookie/)
 
 
-### Q. How does using the new application passwords benefit a WordPress developer?
-A.  A developer hoping to build API integrations with a WordPress site benefits from an easier and more standard authentication protocol. Application passwords present a standard way for applications to authenticate with WordPress and for users to control which applications are authorized right within their user profile. Application passwords make authenticating to the REST API much easier, and does not require a user to be logged into the WordPress site as the cookie based authentication did. 
-
-### Q. How does the application passwords feature integrate with third party sites?
-A. The application passwords feature provides a path through which an offsite API provider can redirect the WordPress user to log into their WordPress admin and create an application password with the correct UUID and name of your application, a success redirect, and a fail redirect. For more information how this is done, [view this example](https://gist.github.com/georgestephanis/44d16dfdd17bd18b9c45d1d5e6d7ec7b). More information is available in the Application Passwords [Integration Guide](https://make.wordpress.org/core/2020/11/05/application-passwords-integration-guide/).
-
-Additionally, applications can begin to use your WordPress site as a SSO option alternative to other popular SSO options like Google, Facebook, and Amazon. In other words, if you wanted to use your WordPress application passwords feature to authorize and log into other apps, this could be possible if the app chooses to integrate with WordPress and offer that option.
+### Q4. How does using the new application passwords benefit a WordPress developer?
+A. Any developer building API integrations to connect with a WordPress site will enjoy an easier and secure authentication protocol. Application passwords allow applications to authenticate with WordPress, and for users to control which applications are authorized, all within their user profile. Additionally, application passwords do not require a user to be logged into the WordPress site as the cookie based authentication did, making authenticating to the REST API a more seamless experience. It does not require a user to be logged into the WordPress site which is required in a cookie-based authentication.
 
 
-### Q. What security measures are taken to make using applications passwords safe?
+### Q5. How does the application passwords feature integrate with third party sites?
+A. The application passwords feature provides a path through which an offsite API provider can redirect the WordPress user to log into their WordPress admin and create an application password with the correct UUID and name of your application, a success redirect, and a fail redirect. For more information how this is done,, [view this example](https://gist.github.com/georgestephanis/44d16dfdd17bd18b9c45d1d5e6d7ec7b). More information is available in the [Application Passwords Integration Guide](https://make.wordpress.org/core/2020/11/05/application-passwords-integration-guide/).
+
+Additionally, applications can begin to use your WordPress site as a SAML Single Sign on (SSO) option alternative to other popular SSO options like Google, Facebook, and Amazon. In other words, if you wanted to use your WordPress application passwords feature to authorize and log into other apps, this could be possible if the external app chooses to integrate with WordPress and offer that option.
+
+
+### Q6. What security measures are taken to make using applications passwords safe?
 A. Both domains are required to use HTTPS. The passwords themselves are [24-characters long](https://github.com/WordPress/wordpress-develop/blob/87ff38532d8f4d9f48e67e3af171ea1a88798f6d/src/wp-includes/class-wp-application-passwords.php#L25-L32), generated by [wp_generate_password()](https://github.com/WordPress/wordpress-develop/blob/87ff38532d8f4d9f48e67e3af171ea1a88798f6d/src/wp-includes/class-wp-application-passwords.php#L49), and consist exclusively of upper-case, lower-case, and numeric characters. For the cryptographically curious, that comes to more than [142 bits of entropy](https://github.com/WordPress/application-passwords/pull/34/commits/71f5e9a66f9fa552e07bb11cf981ee1f648e3516). If you would like to learn more about how the core authentication takes place, there are two scripts which handle the authentication. The primary authentication is handled though this [javascript](https://github.com/WordPress/wordpress-develop/blob/fc29c9e623fd68b8e183e45afda26b84b9c2af9f/src/js/_enqueues/admin/auth-app.js), and this [php](https://github.com/WordPress/wordpress-develop/blob/master/src/wp-admin/authorize-application.php) is the fallback.
 
 
-### Q. What filters are provided to developers who need to extend, amend or limit the way core application passwords function?
-A. With the  filter “wp_is_application_passwords_available_for_user”, a plugin or theme developer can limit the feature availability by user role, capability, or even user_id. Check out the example in the [Application Passwords: Integration guide](https://make.wordpress.org/core/2020/11/05/application-passwords-integration-guide/) where the user must have the capability to ‘manage_options’ in order to create a new application password.
+### Q7. What filters are provided to developers who need to extend, amend or limit the way core application passwords function?
+A. The `wp_is_application_passwords_available` filter can be used to completely disable Application Passwords. With the  `wp_is_application_passwords_available_for_user` filter, a plugin or theme developer can limit the feature availability by user role, capability, or even user_id. Check out the examples in the [Application Passwords: Integration guide](https://make.wordpress.org/core/2020/11/05/application-passwords-integration-guide/).
+ 
 
-### Q. Does WordPress log the usage of each application password?
+### Q8. Does WordPress log the usage of each application password?
 A. Once daily, the [WordPress Application Passwords class](https://github.com/WordPress/wordpress-develop/blob/master/src/wp-includes/class-wp-application-passwords.php) stores the last used IP and the last used time (time()). This value is overwritten with each usage. No ‘log’ of usage is created and stored by WordPress.
 
-### Q. How can a plugin developer add to or change information about each application password and/or the usage of each application password?
+
+### Q9. How can a plugin developer add to or change information about each application password and/or the usage of each application password?
 A. Each application password is assigned a UUID which can be used by a plugin developer to store additional information.
 
-### Q. As a security measure, will a user be able to limit the use of application passwords by IP?
+
+### Q10. As a security measure, will a user be able to limit the use of application passwords by IP?
 A. The IP is stored with the record of daily usage of the application password. However, the [class-wp-application-passwords.php](https://github.com/WordPress/wordpress-develop/blob/master/src/wp-includes/class-wp-application-passwords.php) does not currently support limiting usage by IP.
+ The IP is stored with the record of daily usage of the application password. However, the class-wp-application-passwords.php does not currently support limiting usage by IP.
 
-### Q. What are the expansion plans for application passwords?
-A. At this time, there is a plugin established to prototype new features which could be included in core in a future release cycle. If you would like to be involved in the development of future features, you can find and [contribute to the repository](https://github.com/wordpress/application-passwords).
 
-### Q. Why can I not see Application Passwords in my user profile in the Account Management section?
+### Q11. What are the expansion plans for application passwords?
+A. At this time, there is a plugin established to prototype new features which could be included in core in a future release cycle. If you would like to be involved in the development of future enhancements, you can find and [contribute to the repository](https://github.com/wordpress/application-passwords).
+
+
+### Q12. Why can I not see Application Passwords in my user profile in the Account Management section?
 A. Your WordPress site administrator has the ability to limit the scope of which users have access to application passwords through the use of wp_is_application_passwords_available_for_user filter. Alternatively, If your site is not served over SSL, the feature will not be available and therein does not show within the user profile screen.
 
 
@@ -67,7 +76,5 @@ Application passwords in 5.6 integration guide https://make.wordpress.org/core/2
 
 ***
 
-#### Thanks to [Meg Phillips](https://profiles.wordpress.org/megphillips91/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Meher Bala](https://profiles.wordpress.org/meher/), and [Abha Thakor](https://profiles.wordpress.org/webcommsat/).
-
-#### Thanks to [Angela Jin](https://profiles.wordpress.org/angelasjin/) and [Daisy Olsen](https://profiles.wordpress.org/daisyo/) for Proofreading.
+#### Thanks to [Meg Phillips](https://profiles.wordpress.org/megphillips91/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Meher Bala](https://profiles.wordpress.org/meher/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/), [Angela Jin](https://profiles.wordpress.org/angelasjin/), [Daisy Olsen](https://profiles.wordpress.org/daisyo/) and all those who have provided information from the release squad.
 
