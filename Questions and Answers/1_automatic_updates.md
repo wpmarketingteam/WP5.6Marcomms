@@ -53,7 +53,7 @@ A.  WordPress uses a tool called “WP Cron”, which handles scheduled events (
 ## Q10. If I opt-in for automatic updates is it possible that my site will crash on the next update?
 A.  As WordPress is modular, there is a chance that something might not be compatible with something else, which may cause issues! To help address this, the WordPress Core team recommends that everything be updated to its recent versions.  This will help improve the compatibility of all elements that comprise your WordPress site, and lower the probability of issues like crashes.
 
-## Q11. I can’t see the Enable/Disable Auto-updates option in my WordPress admin??
+## Q11. I can’t see the Enable/Disable Auto-updates option in my WordPress admin?
 A. After updating to WordPress 5.6, if you see the notice “This site will not receive automatic updates for new versions of WordPress”, and it is not followed by a link to turn on automatic updates, it might have been disabled by your hosting provider. In this case, you will need to contact your host for more information.
 
 ![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/core-auto-updates-disabled-programatically.png "shows how to disable programtically auto updates.")
