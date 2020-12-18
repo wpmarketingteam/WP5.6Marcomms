@@ -86,6 +86,17 @@ A. Fresh installs of WordPress 5.6 will have the auto-update for major core rele
 A. These updates are performed between the virtual server on your system, and the server the plugins are being updated from. So if you are developing your site locally, and lose your connection (I.E You lose your connection to the web or you lose power etc)  or don’t have a connection during an auto update it will fail. You need to ensure you have a good stable connection to the web during updates.
 
 
+### Q4. What should I do if I do interrupt my connection during an autoupdate? 
+Should an auto update be interrupted due to a loss of power, or connection, you can check your site by logging into the site once your connection/power is restored.
+If you are able to log into the site, check versions of plugins & core is up to date, in Dashboard > Updates. If no updates are available, the updates have been applied before the connection was lost. If updates are showing as available, you can retry updating core, plugins or themes, as required.
+If you cannot access the dashboard, it is likely that the update failed, and something possibly got corrupted during the update - due to the loss of connection.
+The most likely cause of not being able to access the dashboard, is usually related to the WP core files.
+Download the latest version of WordPress, and replace all files in your site except the wp-config.php file, and your wp-content folder.
+This is a manual method to update Core WordPress files on your site. 
+
+If that does not allow you to access the dashboard, it may have been an update with either a theme or plugin.
+You can download the latest version of themes and/or plugins, and replace their local folders within the wp-content folder.
+
 
 ***
 
