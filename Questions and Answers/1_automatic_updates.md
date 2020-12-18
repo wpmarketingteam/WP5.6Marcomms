@@ -45,7 +45,10 @@ A. Yes! With auto-updates enabled, after the WordPress software updates itself t
 A. After a new version of WordPress is released, it will take no longer than 12 hours before it is auto-updated on your installation!
 
 
-## Q9. To be added
+## Q9.  I opted-in to auto-updates but they don’t work?
+A.  WordPress uses a tool called “WP Cron”, which handles scheduled events (such as regularly checking for the latest version of WordPress software!) for your website. If your auto-updates aren’t working,  You can check whether WP Cron is enabled via the site health  under dashboard tools as seen in this photo: 
+![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/wordpress-site-health-1.png "Shows the site health.")
+
 
 ## Q10. If I opt-in for automatic updates is it possible that my site will crash on the next update?
 A.  As WordPress is modular, there is a chance that something might not be compatible with something else, which may cause issues! To help address this, the WordPress Core team recommends that everything be updated to its recent versions.  This will help improve the compatibility of all elements that comprise your WordPress site, and lower the probability of issues like crashes.
