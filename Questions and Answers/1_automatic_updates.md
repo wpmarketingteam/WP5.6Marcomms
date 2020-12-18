@@ -74,12 +74,13 @@ A. If you lose your internet connection, it has no effect on the automatic updat
 
 ### Q1. How do I disable automatic updates for core major versions?
 A. It’s disabled by default for existing installations.
-If you have enabled it before and changed your mind, just opt-out on the same Update section in your WordPress Dashboard. You also can use [constants or filter](https://make.wordpress.org/core/2020/11/24/core-major-versions-auto-updates-ui-changes-in-wordpress-5-6-correction/)  to do it programmatically.
+Auto-update is disabled by default for existing installations. If you decide to enable it and later change your mind, just opt-out on the same Update section in your WordPress Dashboard. You also can use [constants or filter](https://make.wordpress.org/core/2020/11/24/core-major-versions-auto-updates-ui-changes-in-wordpress-5-6-correction/)  to do it programmatically.
 
 ![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/core-major-auto-updates-default.png "Auto updates disabled Screenshot")
 
 ### Q2. How do I turn it off for the new installs?
-A. The same way you can turn it off for an existing install through the newly introduced user interface in your WordPress Dashboard (Updates section) or [programmatically](https://make.wordpress.org/core/2020/11/24/core-major-versions-auto-updates-ui-changes-in-wordpress-5-6-correction/).
+A. Fresh installs of WordPress 5.6 will have the auto-update for major core releases enabled by default. You can turn off this feature in the Updates screen in your WordPress dashboard, or use constants or filters  to enable or disable auto-updates  programmatically
+
 
 ### Q3. What if I am developing locally and I run automatic updates?
 A. These updates are performed between the virtual server on your system, and the server the plugins are being updated from. So if you are developing your site locally, and lose your connection (I.E You lose your connection to the web or you lose power etc)  or don’t have a connection during an auto update it will fail. You need to ensure you have a good stable connection to the web during updates.
