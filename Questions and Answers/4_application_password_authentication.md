@@ -55,27 +55,34 @@ A. The `wp_is_application_passwords_available` filter can be used to completely 
 A. Once daily, the [WordPress Application Passwords class](https://github.com/WordPress/wordpress-develop/blob/master/src/wp-includes/class-wp-application-passwords.php) stores the last used IP and the last used time (time()). This value is overwritten with each usage. No ‘log’ of usage is created and stored by WordPress.
 
 
-### Q9. How can a plugin developer add to or change information about each application password and/or the usage of each application password?
+### Q9. Is there a difference in permissions between a normal password and a new Application Password?
+There is no difference in permissions. The permissions granted to any application via an application password are inherited from the user granting the application password. 
+
+
+### Q10. How can a plugin developer add to or change information about each application password and/or the usage of each application password?
 A. Each application password is assigned a UUID which can be used by a plugin developer to store additional information.
 
 
-### Q10. As a security measure, will a user be able to limit the use of application passwords by IP?
+### Q11. As a security measure, will a user be able to limit the use of application passwords by IP?
 A. The IP is stored with the record of daily usage of the application password. However, the [class-wp-application-passwords.php](https://github.com/WordPress/wordpress-develop/blob/master/src/wp-includes/class-wp-application-passwords.php) does not currently support limiting usage by IP.
  The IP is stored with the record of daily usage of the application password. However, the class-wp-application-passwords.php does not currently support limiting usage by IP.
 
 
-### Q11. What are the expansion plans for application passwords?
+### Q12. What are the expansion plans for application passwords?
 A. At this time, there is a plugin established to prototype new features which could be included in core in a future release cycle. If you would like to be involved in the development of future enhancements, you can find and [contribute to the repository](https://github.com/wordpress/application-passwords).
 
 
-### Q12. Why can I not see Application Passwords in my user profile in the Account Management section?
+### Q13. Why can I not see Application Passwords in my user profile in the Account Management section?
 A. Your WordPress site administrator has the ability to limit the scope of which users have access to application passwords through the use of wp_is_application_passwords_available_for_user filter. Alternatively, If your site is not served over SSL, the feature will not be available and therein does not show within the user profile screen.
 
 
-### Q13. I don’t have any applications, can I switch application passwords REST API endpoint off?
+### Q14. I don’t have any applications, can I switch application passwords REST API endpoint off?
 A Using the filter provided, you can set that filter to always return false which will disable this feature for all users as illustrated below: add_filter ( 'wp_is_application_passwords_available', '__return_false' );
 
 Application passwords in 5.6 integration guide https://make.wordpress.org/core/2020/11/05/application-passwords-integration-guide/ 
+
+
+
 
 ***
 
