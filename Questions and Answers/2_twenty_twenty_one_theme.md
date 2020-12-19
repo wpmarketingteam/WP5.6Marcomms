@@ -1,8 +1,8 @@
 **Status: Version 2020/11/25. This is being finalized with the Release Squad.**
 
-# Twenty Twenty One Theme 
+# Twenty Twenty-One Theme 
 
-Introducing Twenty Twenty One which is the default theme with this release.
+Introducing Twenty Twenty-One which is the default theme with this release.
 https://make.wordpress.org/core/2020/09/23/introducing-twenty-twenty-one/
 
 
@@ -46,15 +46,15 @@ You can choose a background color and enable or disable this feature in the Cust
 
 ![Highest level of Accessibility in 2021 Theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/2021-accessibility.png  "Highest level of Accessibility in 2021 Theme")
 
-While the Twenty Twenty One theme is of this highest accessibility level, accessibility of your site will also depend on which plugins you install. The WordPress Accessibility team recommends that you review all plugins for accessibility before installing them on your site. [These scores](https://web.dev/accessibility-scoring/) are also dependent on which plugins you have on your site as well, so be careful and do your research before choosing to install a plugin on your site.
+While the Twenty Twenty-One theme is of this highest accessibility level, accessibility of your site will also depend on which plugins you install. The WordPress Accessibility team recommends that you review all plugins for accessibility before installing them on your site. [These scores](https://web.dev/accessibility-scoring/) are also dependent on which plugins you have on your site as well, so be careful and do your research before choosing to install a plugin on your site.
 
 The WordPress community has a whole team devoted to accessibility which will be celebrating its 10th anniversary in 2021. If you want to find more about their work or to and get involved, [visit](https://make.wordpress.org/accessibility/)
 
-Try the Twenty Twenty One theme for yourself and discover its many benefits. The Release Squad working with many other contributors across the WordPress open source project have done a lot of work on this theme and it’s an exciting step forward
+Try the Twenty Twenty-One theme for yourself and discover its many benefits. The Release Squad working with many other contributors across the WordPress open source project have done a lot of work on this theme and it’s an exciting step forward
 
-### Q3. What is the Dark Mode in Twenty Twenty One Theme?
+### Q3. What is the Dark Mode in Twenty Twenty-One Theme?
 
-Twenty Twenty One will include support for Dark Mode. This feature can be enabled within the Customizer.
+Twenty Twenty-One will include support for Dark Mode. This feature can be enabled within the Customizer.
 
 
 ![Dark Mode in 2021 theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/Dark-Mode1.png "Dark Mode in 2021 theme")
@@ -74,69 +74,50 @@ Be sure to test your site for good contrast between the text, any graphics and c
 
 ![Logos and graphics to keep in mind when turning dark mode on](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/dark-mode-front-end-2.png "Logos and graphics to keep in mind when turning dark mode on")
 
+
+### Q3. How can I customize my Twenty Twenty-One theme?
+There are several ways to customize your WordPress theme. You can use the “Customizer” (Dashboard > Appearance > Customize) where you can add your logo, change colors, add background image, edit menus and widgets, but also add custom styles. https://wordpress.org/support/article/appearance-customize-screen/
+You can make a child theme to extend the functionality further. https://developer.wordpress.org/themes/advanced-topics/child-themes/
+Additionally, you can add even more functionality to your site with plugins. To install a plugin, you can use keywords to search and find plugins in the official WordPress repository on https://wordpress.org/plugins/
+
 ## Questions and Answers - aimed at supporting Developers
 
-### Q1. What is the best way to make a customized version of the Twenty Twenty One theme?
-A. 
+### Q1. How can I customize my Twenty Twenty-One theme?
+A. There are several ways to customize your WordPress theme. You can use the “Customizer” (Dashboard > Appearance > Customize) where you can add your logo, change colors, add a background image, edit menus and widgets, add custom styles and more. [https://wordpress.org/support/article/appearance-customize-screen/](https://wordpress.org/support/article/appearance-customize-screen/)
 
 
+Additionally, you can add even more functionality to your site with plugins. To install a plugin, you can use keywords to search and find plugins in the official WordPress repository on [https://wordpress.org/plugins/](https://wordpress.org/plugins/)gins/ or through the WordPress Dashboard (Dashboard > Plugins > Add New)
 
+You can extend the functionality further by making a child theme. 
 
+### Q2. What is the best way to make a customized version of the Twenty Twenty-One theme?
+A. To further customize the Twenty Twenty--One theme you can follow these steps:
 
-
-
-
-
-
-
-
-
-
-
-
-### Q.  How to create a Twenty Twenty One child theme?
-To create the child theme to Twenty Twenty-One you can follow that same steps as to create a child theme to any other theme: 
 1. Create a “twentytwentyone-child” folder.
-2. Create “style.css” file inside with minimum required information: 
+2. Create “style.css” file inside with minimum required information:
 
 ```
 /*
-Theme Name: Twenty Twenty-One Child
-Template: twentytwentyone
+ Theme Name:   Twenty Twenty-One Child
+ Theme URI:	http://example.com/twenty-twenty-one-child/
+ Description:  Twenty Twenty-One Child Theme
+ Author:   	YOUR NAME CHANGE THIS
+ Author URI:   http://example.com
+ Template: 	twentytwentyone
+ Version:  	1.0.0
+ License:  	GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:     	light, dark, two-columns, right-sidebar, responsive-layout
+ Text Domain:  twentytwentyone child
 */
+
 ```
 
-Make new styles or add your custom functions in “functions.php”
-Activate your theme and enjoy your Twenty Twenty-One Child theme. For this go to Dashboard > Appearance > Themes, choose your new theme and click Activate. 
+You can create new styles or add your custom functions in “functions.php”. Then, activate your theme by going to Dashboard > Appearance > Themes. Select  your new child theme and click “Activate” to enjoy your Twenty Twenty-One Child theme.
 
-Keep in mind that not all themes include parents styles automatically. Twenty Twenty-One theme will do this for you. You can also include an image with the name screenshot.png in this folder as well to make it look nice in your Admin.
+Keep in mind that not all themes include parents’ styles automatically. The Twenty Twenty-One theme will do this for you.
 
-More information about the process: https://developer.wordpress.org/themes/advanced-topics/child-themes/
-
-
-### Q. How can I customize my Twenty Twenty-One theme?
-There are several ways to customize your WordPress theme.
-You can use the  “Customizer” (Dashboard > Appearance > Customize) where you can add your logo, change colors, add background image, edit menu and widgets but also add custom styles. https://wordpress.org/support/article/appearance-customize-screen/
-
-Make a child theme to extend the functionality further. https://developer.wordpress.org/themes/advanced-topics/child-themes/
-
-A lot of functionality is already available as plugins. To install a plugin, you can  use keywords to search and find plugins  in the official WordPress repository on https://wordpress.org/plugins/
-
-We advise you to try new plugins and all style adjustments on a staging site. More information on how to run a development copy of WordPress. https://wordpress.org/support/article/running-a-development-copy-of-wordpress/
-
-You can install the copy of your site locally on your computer and some hosting companies provide the ability to create a staging site automatically. If you have this option,  you should take advantage of it. 
-
-
-***
-
-## Questions and Answers - aimed at supporting Developers 
-
-### Q. What is the difference between WordPress theme Twenty Twenty and Twenty Twenty-One?
-
-Both themes have high levels of accessibility and performance and follow good practice. Just like other WordPress default themes, they receive the necessary updates to be fully compatible with the latest WordPress version. 
-
-The main reason to choose the new Twenty Twenty-One theme is it’s modern design, freshness and flexibility. 
-
+More information about how to create a Child theme you can view the process at:  [https://developer.wordpress.org/themes/advanced-topics/child-themes/](https://developer.wordpress.org/themes/advanced-topics/child-themes/)
 
 
 ***
@@ -146,13 +127,13 @@ The main reason to choose the new Twenty Twenty-One theme is it’s modern desig
 
 ## Questions and Answers - aimed at supporting non-developers 
 
-You can use dark mode in the Twenty Twenty One theme by asking your developer or self-installing if you have administrator rights, the  dark mode. 
+You can use dark mode in the Twenty Twenty-One theme by asking your developer or self-installing if you have administrator rights, the  dark mode. 
 
 
 ***
 
 
-#### Thanks to [Olga Gleckler](https://profiles.wordpress.org/oglekler/), [Mark Smallman](https://profiles.wordpress.org/marks99/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/), [Meher Bala](https://profiles.wordpress.org/meher/) for researching and working on this document, and to the teams that provided assistance. Thanks to [Angela Jin](https://profiles.wordpress.org/angelasjin/), [Daisy Oslen](https://profiles.wordpress.org/daisyo/) and all the release squad members who have provided input.
+#### Thanks to [Olga Gleckler](https://profiles.wordpress.org/oglekler/), [Mark Smallman](https://profiles.wordpress.org/marks99/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/), [Meher Bala](https://profiles.wordpress.org/meher/), [Shanta Nathwani](https://profiles.wordpress.org/tantienhime/)  for researching and working on this document, and to the teams that provided assistance. Thanks to [Angela Jin](https://profiles.wordpress.org/angelasjin/), [Daisy Oslen](https://profiles.wordpress.org/daisyo/) and all the release squad members who have provided input.
 
 
 
