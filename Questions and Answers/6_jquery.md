@@ -1,4 +1,4 @@
-**Status: Version 2020/11/25. This is being finalized with the Release Squad.**
+**Status: Version 2020/11/25. THIS DOCUMENT IS IN DRAFT.**
 
 # jQuery
 
@@ -8,8 +8,9 @@ https://make.wordpress.org/core/2020/06/29/updating-jquery-version-shipped-with-
 Before updating to 5.6, you should preemptively check your sites using the update test plugin: https://wordpress.org/plugins/wp-jquery-update-test/    
 This will help you find errors which can occur after an update.
 
-We advise you install the jQuery Migrate plugin if you encounter any issues relating the the visual aspects of your site ( E.G a slider doesn’t work, a button is stuck etc etc ) after updating as some plugins and theme JavaScript code on your website could result in some broken sites. 
-[[https://wordpress.org/plugins/enable-jquery-migrate-helper/ ]] 
+This update test plugin will help you find errors which can occur after an update.
+
+The WordPress Core team recommends that you install the jQuery Migrate plugin if you encounter any issues relating to the visual aspects of your site after updating (for example, if a slider doesn’t work, a button is stuck, etc). This is because some plugins and theme JavaScript code on your website could result in some broken sites. [[https://wordpress.org/plugins/enable-jquery-migrate-helper/ ]]
 
 
 ***
