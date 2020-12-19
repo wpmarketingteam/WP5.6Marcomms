@@ -29,31 +29,31 @@ A. With a fresh install of WordPress 5.6, auto-updates will be enabled by defaul
 If you don’t opt in to auto-updates, or, if you turn this feature off, your WordPress site will not be updated to the latest version unless you do so manually. 
 
 
-## Q5. If I enable auto-updates for major WordPress core updates, will all my themes and plugins be updated automatically too?
+### Q5. If I enable auto-updates for major WordPress core updates, will all my themes and plugins be updated automatically too?
 A. No, they will not. Auto-updates for major WordPress core updates is related to updating the WordPress core software only. Plugins and themes allow users to customize their website by extension of core WordPress software, which is why plugins and themes are not considered a part of the core software  However, you can enable auto-updates for individual themes and plugins by turning on that setting in the Themes and Plugins sections in your Dashboard.
 
 
-## Q6. Will my existing WordPress site be updated to the next major WordPress version automatically after 5.6?
+### Q6. Will my existing WordPress site be updated to the next major WordPress version automatically after 5.6?
 A. For existing WordPress sites, only if you update to WordPress 5.6 and turn on auto-updates for major releases! Otherwise, your website will not be updated to the next major WordPress version automatically.  
 
 
-## Q7. If I opt-in to auto-updates, will I know when my website gets updated to the latest version of WordPress?
+### Q7. If I opt-in to auto-updates, will I know when my website gets updated to the latest version of WordPress?
 A. Yes! With auto-updates enabled, after the WordPress software updates itself to the latest version, you will receive an email notification. Notifications are sent to the email address saved as the administration email address, found under Settings-> General-> Administration Email Address. Please note that this email address could be different from the one which is saved as your user’s email address.
 
 
-## Q8. How soon will my WordPress be auto-updated after a new version is released?
+### Q8. How soon will my WordPress be auto-updated after a new version is released?
 A. After a new version of WordPress is released, it will take no longer than 12 hours before it is auto-updated on your installation!
 
 
-## Q9.  I opted-in to auto-updates but they don’t work?
+### Q9.  I opted-in to auto-updates but they don’t work?
 A.  WordPress uses a tool called “WP Cron”, which handles scheduled events (such as regularly checking for the latest version of WordPress software!) for your website. If your auto-updates aren’t working,  You can check whether WP Cron is enabled via the site health  under dashboard tools as seen in this photo: 
 ![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/auto-update-site-health-wp-cron-disabled.png "Shows the site health.")
 
 
-## Q10. If I opt-in for automatic updates is it possible that my site will crash on the next update?
+### Q10. If I opt-in for automatic updates is it possible that my site will crash on the next update?
 A.  As WordPress is modular, there is a chance that something might not be compatible with something else, which may cause issues! To help address this, the WordPress Core team recommends that everything be updated to its recent versions.  This will help improve the compatibility of all elements that comprise your WordPress site, and lower the probability of issues like crashes.
 
-## Q11. I can’t see the Enable/Disable Auto-updates option in my WordPress admin?
+### Q11. I can’t see the Enable/Disable Auto-updates option in my WordPress admin?
 A. After updating to WordPress 5.6, if you see the notice “This site will not receive automatic updates for new versions of WordPress”, and it is not followed by a link to turn on automatic updates, it might have been disabled by your hosting provider. In this case, you will need to contact your host for more information.
 
 ![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/core-auto-updates-disabled-programatically.png "shows how to disable programtically auto updates.")
@@ -64,7 +64,7 @@ It means your website’s code might be managed by a version control system such
 
 
 
-## Q12. What if I lose my internet connection during an automatic update?
+### Q12. What if I lose my internet connection during an automatic update?
 
 A. If you lose your internet connection, it has no effect on the automatic updates. This is done completely independently of whether you are accessing the site or not. The updates are automatic, once they are set up, they need no interaction from your part.
 
