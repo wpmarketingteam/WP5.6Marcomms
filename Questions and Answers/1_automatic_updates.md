@@ -18,14 +18,17 @@ With 5.6, WordPress users will be able to opt-in or out of auto-updates for majo
 ![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/core-major-auto-updates-enabled-manually.png "Auto updates enabled manually Screenshot")
 
 ### Q2. Are auto-updates enabled by default?
-A. For any new WordPress 5.6 installation, auto-updates are enabled by default. This means that your WordPress site will continue to keep itself up to date with each new version of WordPress! 
+A. For any new WordPress 5.6 installation, auto-updates are enabled by default. This means that your WordPress site will continue to keep itself up to date with each new version of WordPress!
+
 If you are updating your existing WordPress site to 5.6, you will need to opt-in to enable auto-updates for major WordPress Core releases. This can be done in the Updates screen in your WordPress dashboard. 
+
 If you do not want to have your site auto-update, you can also turn off this feature in the Updates screen in the Dashboard.
 Remember, auto-updates for minor releases are enabled by default since WordPress 3.7.
 
 
 ### Q4. Will auto-updates affect my site?
 A. With a fresh install of WordPress 5.6, auto-updates will be enabled by default, meaning that your WordPress site will continue to regularly and automatically update to the latest minor and major versions of WordPress. You can choose to enable this feature if you are updating an existing site to WordPress 5.6. By enabling auto-updates, your website will always run the most secure version of WordPress available. 
+
 If you don’t opt in to auto-updates, or, if you turn this feature off, your WordPress site will not be updated to the latest version unless you do so manually. 
 
 
@@ -57,7 +60,6 @@ A.  As WordPress is modular, there is a chance that something might not be compa
 A. After updating to WordPress 5.6, if you see the notice “This site will not receive automatic updates for new versions of WordPress”, and it is not followed by a link to turn on automatic updates, it might have been disabled by your hosting provider. In this case, you will need to contact your host for more information.
 
 ![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/core-auto-updates-disabled-programatically.png "shows how to disable programtically auto updates.")
-
 
 If you get the notice “This site appears to be under version control. Automatic updates are disabled.” - this is not a standard feature.
 It means your website’s code might be managed by a version control system such as Git. In this case, please speak with your web developer. 
@@ -93,7 +95,8 @@ When you are able to log into the site, check the plugins and core versions are 
 
 If you can not access the dashboard, it is likely that the update failed, and something possibly was corrupted during the update, potentially due to the loss of connection. The most likely cause of not being able to access the dashboard, is usually related to the WordPress core files.
 
-You can download the latest version of WordPress and replace all of the files on your site except the wp-config.php file and your wp-content folder. This is a manual method to update Core WordPress files on your site, as such it should be done with extreme caution. You can find more information at this [link](https://wordpress.org/support/article/upgrading-wordpress-extended-instructions/).  
+You can download the latest version of WordPress and replace all of the files on your site except the wp-config.php file and your wp-content folder. This is a manual method to update Core WordPress files on your site, as such it should be done with extreme caution. You can find more information at this [link](https://wordpress.org/support/article/upgrading-wordpress-extended-instructions/).
+
 You can download the latest version of WordPress at this [link](https://en-gb.wordpress.org/download/). 
 
 If the previous instructions do not allow you to access the dashboard, then the issue may be with an update in either a theme or plugin. Rename your plugins folder to plugins_old and rename your theme folder to themes_old, which should bring the site back up and allow you to log into your dashboard where you can then proceed to reinstall plugins and themes. 
@@ -105,5 +108,11 @@ You can download the latest version of themes and/or plugins, and replace their 
 
 ***
 
-#### Thanks to [Sabrina Zeidan](https://profiles.wordpress.org/sabrinazeidan/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/), [Meher Bala](https://profiles.wordpress.org/meher/), [Olga Glekler](https://profiles.wordpress.org/oglekler/), [Angela Jin](https://profiles.wordpress.org/angelasjin/), [Daisy Oslen](https://profiles.wordpress.org/daisyo/), [Shanta Nathwani](https://profiles.wordpress.org/tantienhime/) and all the release squad members who have given input into this document.
+#### Thanks to [Sabrina Zeidan](https://profiles.wordpress.org/sabrinazeidan/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/), [Meher Bala](https://profiles.wordpress.org/meher/), [Olga Glekler](https://profiles.wordpress.org/oglekler/), [Angela Jin](https://profiles.wordpress.org/angelasjin/), [Daisy Oslen](https://profiles.wordpress.org/daisyo/), [Shanta Nathwani](https://profiles.wordpress.org/tantienhime/), [Mark Smallman](https://profiles.wordpress.org/vimes1984/) for researching and working on this document, and to the teams that provided assistance. Thanks to and all the release squad members who have provided input.
+
+
+
+
+
+
 
