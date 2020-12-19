@@ -1,6 +1,6 @@
-**Status: Version 2020/12/18. Finalized**
+**Status: Version 2020/12/19. Finalized**
 
-Finalization with the Release Squad.
+**Finalization with the Release Squad.**
 
 # Automatic updates for major WordPress Core releases
 
