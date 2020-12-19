@@ -1,7 +1,7 @@
 **Status: Version 2020/12/19. This is being finalized with the Release Squad.**
 
 # PHP 8.0 Support
-WordPress Core in its 5.6 release is taking the first step to support PHP 8.0, which is due out in late November 2020. It is a good time to start planning to migrate your WordPress products, services and sites to the latest PHP version. 
+WordPress Core in its 5.6 release is taking the first step to support PHP 8.0. It is a good time to start planning to migrate your WordPress products, services and sites to the latest PHP version. 
 
 https://make.wordpress.org/core/2020/11/20/wordpress-5-6-field-guide/
 
