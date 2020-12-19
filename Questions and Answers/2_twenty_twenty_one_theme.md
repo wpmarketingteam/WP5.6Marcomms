@@ -1,4 +1,4 @@
-**Status: Version 2020/11/25. This is being finalized with the Release Squad.**
+**Status: Version 2020/12/19. This is being finalized with the Release Squad.**
 
 # Twenty Twenty-One Theme 
 
@@ -10,13 +10,13 @@ https://make.wordpress.org/core/2020/09/23/introducing-twenty-twenty-one/
 
 ## Questions and Answers - aimed at supporting non-developers 
 
-### Q1 What is the difference between WordPress theme Twenty Twenty and Twenty Twenty-One?
+### Q1. What is the difference between WordPress theme Twenty Twenty and Twenty Twenty-One?
 A. Both themes have high levels of accessibility and performance and follow good practice. Just like other WordPress default themes, they receive the necessary updates to be fully compatible with the latest WordPress version.
 
 The main reason to choose the new Twenty Twenty-One theme is its modern design, freshness and flexibility. Twenty Twenty-One adds beautifully styled block patterns, block styles, and a custom color palette to make adding content to your site easy. This theme has a new color palette with pastel colors ideal for different purposes from a photographer’s personal portfolio to a cosmetic store, or beauty blog. It is also the first time where the default WordPress theme has a Dark mode feature.  
 
 
-### Q2 What are the benefits of using a WordPress default theme Twenty Twenty-One? 
+### Q2. What are the benefits of using a WordPress default theme Twenty Twenty-One? 
 
 This new theme has:
 
@@ -56,7 +56,6 @@ Try the Twenty Twenty-One theme for yourself and discover its many benefits. The
 
 Twenty Twenty-One will include support for Dark Mode. This feature can be enabled within the Customizer.
 
-
 ![Dark Mode in 2021 theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/Dark-Mode1.png "Dark Mode in 2021 theme")
 
 Dark Mode allows the site to honor a visitor’s dark mode preferences on the device they are using to view your site.
@@ -68,6 +67,7 @@ Once enabled, the front-end of the site will show a floating button to enable or
 If a visitor to your site has dark mode enabled in their system preferences, the site will default to their chosen preference (dark mode on/off).  The Dark Mode: On/Off button will float in front of your content, in the bottom right corner of your site.
 
 If you do enable dark mode, pay attention to any logos and graphics used on your site.
+
 Be sure to test your site for good contrast between the text, any graphics and chosen background color on your site. One of the many resources for testing accessibility is [https://wave.webaim.org/](https://wave.webaim.org/) 
 
 ![Logos and graphics to keep in mind when turning dark mode on](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/dark-mode-front-end-1.png "Logos and graphics to keep in mind when turning dark mode on")
@@ -77,14 +77,15 @@ Be sure to test your site for good contrast between the text, any graphics and c
 
 ### Q3. How can I customize my Twenty Twenty-One theme?
 There are several ways to customize your WordPress theme. You can use the “Customizer” (Dashboard > Appearance > Customize) where you can add your logo, change colors, add background image, edit menus and widgets, but also add custom styles. https://wordpress.org/support/article/appearance-customize-screen/
+
 You can make a child theme to extend the functionality further. https://developer.wordpress.org/themes/advanced-topics/child-themes/
+
 Additionally, you can add even more functionality to your site with plugins. To install a plugin, you can use keywords to search and find plugins in the official WordPress repository on https://wordpress.org/plugins/
 
 ## Questions and Answers - aimed at supporting Developers
 
 ### Q1. How can I customize my Twenty Twenty-One theme?
 A. There are several ways to customize your WordPress theme. You can use the “Customizer” (Dashboard > Appearance > Customize) where you can add your logo, change colors, add a background image, edit menus and widgets, add custom styles and more. [https://wordpress.org/support/article/appearance-customize-screen/](https://wordpress.org/support/article/appearance-customize-screen/)
-
 
 Additionally, you can add even more functionality to your site with plugins. To install a plugin, you can use keywords to search and find plugins in the official WordPress repository on [https://wordpress.org/plugins/](https://wordpress.org/plugins/)gins/ or through the WordPress Dashboard (Dashboard > Plugins > Add New)
 
