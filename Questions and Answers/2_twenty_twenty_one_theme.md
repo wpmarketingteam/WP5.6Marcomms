@@ -63,7 +63,7 @@ Dark Mode allows the site to honor a visitor’s dark mode preferences on the de
 
 Once enabled, the front-end of the site will show a floating button to enable or disable dark mode.
 
-![Dark Mode in 2021 theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/dark-mode-buttons-in-front-end.png"Dark Mode in 2021 theme")
+![Dark Mode in 2021 theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/dark-mode-buttons-in-front-end.png "Dark Mode in 2021 theme")
 
 If a visitor to your site has dark mode enabled in their system preferences, the site will default to their chosen preference (dark mode on/off).  The Dark Mode: On/Off button will float in front of your content, in the bottom right corner of your site.
 
