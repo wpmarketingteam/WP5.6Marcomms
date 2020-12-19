@@ -85,7 +85,9 @@ A: More information is available in this [Dev-Note](https://wp.me/p2AvED-lGO)
 ***
 
 
-#### Thanks to the members of the Accessibility team, [Larissa Murillo](https://profiles.wordpress.org/lmurillom/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/) and [Meher Bala](https://profiles.wordpress.org/meher/) for researching and working on this document, and to the teams that provided assistance.
+
+
+#### Thanks to the members of the Accessibility team, [Sarah Ricker](https://profiles.wordpress.org/sarahricker/), [Joe Dolson](https://profiles.wordpress.org/joedolson/), [Isabel Brison](https://profiles.wordpress.org/isabel_brison/), [Jean-Baptiste Audras](https://profiles.wordpress.org/audrasjb/), [Alex de Borba](https://profiles.wordpress.org/alexdeborba/), [Angela Jin](https://profiles.wordpress.org/angelasjin/), [Daisy Olsen](https://profiles.wordpress.org/daisyo/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/), [Nalini Thakor](https://profiles.wordpress.org/nalininonstopnewsuk/), [Meher Bala](https://profiles.wordpress.org/meher/), [Shanta R. Nathwani](https://profiles.wordpress.org/tantienhime/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Larissa Murillo](https://profiles.wordpress.org/lmurillom/), [Chloe Bringmann](https://profiles.wordpress.org/cbringmann/), Hareesh S, for researching and working on this document, and to the teams that provided assistance.
 
 
 
