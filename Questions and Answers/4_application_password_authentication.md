@@ -1,4 +1,6 @@
-**Status: Version 2020/12/18. This version incorporates queries and added dev note references**
+**Status: Version 2020/12/18.** 
+
+**This version incorporates queries and added dev note references**
 
 # Application Passwords authentication via REST API 
 
