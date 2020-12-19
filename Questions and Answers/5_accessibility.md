@@ -26,6 +26,12 @@ Choose plugins carefully. [The WordPress Accessibility Team](https://make.wordpr
 
 As you add to your site, continue to [test and evaluate your site’s web accessibility](https://www.w3.org/WAI/test-evaluate/) to ensure it continues to conform to the standard level your site aims to meet. 
 
+### Q: What tools are available to help me make my current website more accessible?
+A: You can start checking for web accessibility by using the [Accessibility Team’s Handbook](https://make.wordpress.org/accessibility/handbook/test-for-web-accessibility/) to evaluate your site and make sure you are following [their guidelines](https://make.wordpress.org/accessibility/handbook/best-practices/).  
+
+### Q: Where can I find themes that have an accessibility focus?
+A: A list of accessible themes can be found in the WordPress Themes Repository that include the [accessibility-ready](https://wordpress.org/themes/tags/accessibility-ready/) tag. 
+
 
 ### Q: How do I move meta boxes with my keyboard?
 A: More information is available in this [Dev-Note](https://wp.me/p2AvED-lGO) 
