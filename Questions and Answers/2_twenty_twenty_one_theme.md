@@ -68,7 +68,7 @@ Once enabled, the front-end of the site will show a floating button to enable or
 If a visitor to your site has dark mode enabled in their system preferences, the site will default to their chosen preference (dark mode on/off).  The Dark Mode: On/Off button will float in front of your content, in the bottom right corner of your site.
 
 If you do enable dark mode, pay attention to any logos and graphics used on your site.
-Be sure to test your site for good contrast between the text, any graphics and chosen background color on your site. One of many  resources with regards to testing testing your accessibility is [https://wave.webaim.org/](https://wave.webaim.org/) 
+Be sure to test your site for good contrast between the text, any graphics and chosen background color on your site. One of the many resources for testing accessibility is [https://wave.webaim.org/](https://wave.webaim.org/) 
 
 ![Logos and graphics to keep in mind when turning dark mode on](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/dark-mode-front-end-1.png "Logos and graphics to keep in mind when turning dark mode on")
 
