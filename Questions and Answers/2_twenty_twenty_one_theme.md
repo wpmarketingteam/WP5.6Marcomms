@@ -123,9 +123,6 @@ More information about how to create a Child theme you can view the process at: 
 
 ***
 
-
-***
-
 ## Questions and Answers - aimed at supporting non-developers 
 
 You can use dark mode in the Twenty Twenty-One theme by asking your developer or self-installing if you have administrator rights, the  dark mode. 
@@ -134,7 +131,7 @@ You can use dark mode in the Twenty Twenty-One theme by asking your developer or
 ***
 
 
-#### Thanks to [Olga Gleckler](https://profiles.wordpress.org/oglekler/), [Mark Smallman](https://profiles.wordpress.org/marks99/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/), [Meher Bala](https://profiles.wordpress.org/meher/), [Shanta Nathwani](https://profiles.wordpress.org/tantienhime/)  for researching and working on this document, and to the teams that provided assistance. Thanks to [Angela Jin](https://profiles.wordpress.org/angelasjin/), [Daisy Oslen](https://profiles.wordpress.org/daisyo/) and all the release squad members who have provided input.
+#### Thanks to [Olga Gleckler](https://profiles.wordpress.org/oglekler/), [Mark Smallman](https://profiles.wordpress.org/marks99/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/), [Meher Bala](https://profiles.wordpress.org/meher/), [Shanta Nathwani](https://profiles.wordpress.org/tantienhime/), [Angela Jin](https://profiles.wordpress.org/angelasjin/), [Daisy Oslen](https://profiles.wordpress.org/daisyo/) for researching and working on this document, and to the teams that provided assistance. Thanks to all the release squad members who have provided input.
 
 
 
