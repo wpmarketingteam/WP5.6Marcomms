@@ -45,7 +45,25 @@ A: The Accessibility Statement Feature Plugin helps you show visitors you care a
 Customize the generated statement  to provide your contact information for feedback and describe your website’s current accessibility features. Note that in some situations you may be required to provide particular content in your accessibility statements. For example, there are [specific requirements for accessibility statements in relation to the EU Web Accessibility Directive](https://eur-lex.europa.eu/eli/dec_impl/2018/1523/oj).
 
 The Accessibility Statement Feature plugin works in a similar way as the [WordPress Privacy Policy Tool](https://wordpress.org/support/article/wordpress-privacy/#privacy-policy-editing-helper). Select an existing page to use with the generated content, or create a new page as needed.  
+
+### Q: How can I improve my site’s accessibility??
+
+First of all, thank you for investing your time and effort to make your site accessible! The best place to start is by familiarizing yourself with the [Web Accessibility Standards](https://www.w3.org/WAI/standards-guidelines/) developed by the [W3C](https://www.w3.org/WAI/), starting with [Accessibility Fundamentals](https://www.w3.org/WAI/fundamentals/). Then, you can start identifying elements of your site to upgrade.  The W3C offers a [collection of tutorials](https://www.w3.org/WAI/tutorials/) that demonstrate how to develop web content that is accessible to people with disabilities, and that provides a better user experience for everyone. There are also a variety of Web [Accessibility Evaluation Tools](https://www.w3.org/WAI/test-evaluate/tools/selecting/) which can also help you get started. 
+
+And of course, the WordPress Accessibility team has resources that can help! Visit the [Make WordPress Accessibility Handbook](https://make.wordpress.org/accessibility/handbook/) to learn about the team’s collection of best practices for web accessibility, tools, the testing we do to improve WordPress, themes, plugins, and how to get involved in WordPress Accessibility! 
+
+### Q: How can I contribute to improving the accessibility of WordPress?
+
+We’re so glad you are interested in contributing! To get started  checkout the [Accessibility Team’s guide](https://make.wordpress.org/accessibility/handbook/get-involved/) on how to get involved. 
+
  
+Other quick ways to [get involved in making WordPress Accessible](https://make.wordpress.org/accessibility/handbook/get-involved/): 
+ See the [accessibility related active tickets](https://make.wordpress.org/accessibility/handbook/get-involved/tickets-tasks-reports/)
+ [Create a new  Accessibility ticket](https://core.trac.wordpress.org/newticket) 
+ Join the conversation on the [Accessibility Forum](https://wordpress.org/support/forum/accessibility/) or the [Accessibility Blog](https://make.wordpress.org/accessibility/)
+ Join one of our regular meetings (Friday 16:00 UTC) in the [#accessibility channel on Make WordPress Slack](https://wordpress.slack.com/archives/C02RP4X03)
+
+And, if you’re a Twitter user, you can follow and contact via the [@WPAccessibility](https://twitter.com/WPAccessibility) account (https://twitter.com/WPAccessibility).
 
 
 ### Q: How do I move meta boxes with my keyboard?
