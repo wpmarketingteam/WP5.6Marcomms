@@ -52,15 +52,32 @@ The WordPress community has a whole team devoted to accessibility which will be 
 
 Try the Twenty Twenty One theme for yourself and discover its many benefits. The Release Squad working with many other contributors across the WordPress open source project have done a lot of work on this theme and it’s an exciting step forward
 
+### Q3. What is the Dark Mode in Twenty Twenty One Theme?
+
+Twenty Twenty One will include support for Dark Mode. This feature can be enabled within the Customizer.
 
 
+![Dark Mode in 2021 theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/Dark-Mode1.png "Dark Mode in 2021 theme")
 
+Dark Mode allows the site to honor a visitor’s dark mode preferences on the device they are using to view your site.
 
+Once enabled, the front-end of the site will show a floating button to enable or disable dark mode.
 
+![Dark Mode in 2021 theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/dark-mode-buttons-in-front-end.png"Dark Mode in 2021 theme")
 
+If a visitor to your site has dark mode enabled in their system preferences, the site will default to their chosen preference (dark mode on/off).  The Dark Mode: On/Off button will float in front of your content, in the bottom right corner of your site.
 
+If you do enable dark mode, pay attention to any logos and graphics used on your site.
+Be sure to test your site for good contrast between the text, any graphics and chosen background color on your site. A good resource for testing your site for accessibility is [https://wave.webaim.org/](https://wave.webaim.org/) 
 
+![Logos and graphics to keep in mind when turning dark mode on](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/dark-mode-front-end-1.png "Logos and graphics to keep in mind when turning dark mode on")
 
+![Logos and graphics to keep in mind when turning dark mode on](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/dark-mode-front-end-2.png "Logos and graphics to keep in mind when turning dark mode on")
+
+## Questions and Answers - aimed at supporting Developers
+
+### Q1. What is the best way to make a customized version of the Twenty Twenty One theme?
+A. 
 
 
 
@@ -124,26 +141,6 @@ The main reason to choose the new Twenty Twenty-One theme is it’s modern desig
 
 ***
 
-# Dark Mode In Twenty Twenty One Theme 
-
-TwentyTwentyOne will include support for Dark Mode, with options for its use found within the customiser.
-
-![Dark Mode in 2021 theme](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/dark-mode.png "Dark Mode in 2021 theme")
-
-As the information next to the option for Dark Mode explains, it allows the site to honour the users dark mode preferences on the device they are viewing your site on.
-
-Once enabled, the front end of the site will show a floating button to enable/disable dark mode.
-
-![Dark Mode Floating button in the front end](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/dark-mode-buttons-in-front-end.png  "Dark Mode Floating button in the front end ")
-
-If a visitor to your site has dark mode enabled on their system preferences, the site will default to their chosen preference (dark mode on/off). While still having the option on the site to disable it, should they wish with this floating button.
-
-If you do enable dark mode, pay careful attention to any logos and graphics used on your site.
-
-![Logos and graphics to keep in mind when turning dark mode on](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/dark-mode-front-end-1.png "Logos and graphics to keep in mind when turning dark mode on")
-
-![Logos and graphics to keep in mind when turning dark mode on](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/dark-mode-front-end-2.png "Logos and graphics to keep in mind when turning dark mode on")
-
 
 ***
 
@@ -155,7 +152,7 @@ You can use dark mode in the Twenty Twenty One theme by asking your developer or
 ***
 
 
-#### Thanks to [Olga Glekler](https://profiles.wordpress.org/oglekler/), [Mark Smallman](https://profiles.wordpress.org/marks99/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/), [Meher Bala](https://profiles.wordpress.org/meher/) for researching and working on this document, and to the teams that provided assistance. Thanks to [Angela Jin](https://profiles.wordpress.org/angelasjin/), [Daisy Oslen](https://profiles.wordpress.org/daisyo/) and all the release squad members who have provided input.
+#### Thanks to [Olga Gleckler](https://profiles.wordpress.org/oglekler/), [Mark Smallman](https://profiles.wordpress.org/marks99/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/), [Meher Bala](https://profiles.wordpress.org/meher/) for researching and working on this document, and to the teams that provided assistance. Thanks to [Angela Jin](https://profiles.wordpress.org/angelasjin/), [Daisy Oslen](https://profiles.wordpress.org/daisyo/) and all the release squad members who have provided input.
 
 
 
