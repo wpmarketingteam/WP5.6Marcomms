@@ -26,37 +26,36 @@ Choose plugins carefully. [The WordPress Accessibility Team](https://make.wordpr
 
 As you add to your site, continue to [test and evaluate your site’s web accessibility](https://www.w3.org/WAI/test-evaluate/) to ensure it continues to conform to the standard level your site aims to meet. 
 
-### Q: What tools are available to help me make my current website more accessible?
+### Q4: What tools are available to help me make my current website more accessible?
 A: You can start checking for web accessibility by using the [Accessibility Team’s Handbook](https://make.wordpress.org/accessibility/handbook/test-for-web-accessibility/) to evaluate your site and make sure you are following [their guidelines](https://make.wordpress.org/accessibility/handbook/best-practices/).  
 
-### Q: Where can I find themes that have an accessibility focus?
+### Q5: Where can I find themes that have an accessibility focus?
 A: A list of accessible themes can be found in the WordPress Themes Repository that include the [accessibility-ready](https://wordpress.org/themes/tags/accessibility-ready/) tag. 
 
-### Q: What is an ‘Accessibility Statement’, and why do I need one on my website?
+### Q6: What is an ‘Accessibility Statement’, and why do I need one on my website?
 A: An accessibility statement is a page on your website that explains the level of web accessibility that your site aims to achieve and includes an overview of its current accessibility features. 
 
 An accessibility statement is an asset to your site because not only do you show that you care about accessibility and your site visitors, you provide helpful information about the accessibility of your content. In other cases, you may be required to provide an accessibility statement. This W3C list of [Web Accessibility Laws and Policies](https://www.w3.org/WAI/policies/) can help you figure out if those instances apply to your site. 
 
 More information on [Accessibility Statements](https://www.w3.org/WAI/planning/statements/).
 
-### Q: What is the ‘Accessibility Statement Feature’ plugin, and how do I use it? 
+### Q7: What is the ‘Accessibility Statement Feature’ plugin, and how do I use it? 
 A: The Accessibility Statement Feature Plugin helps you show visitors you care about making your site accessible and explains functionality and known limitations in common terms. The plugin generates the content structure of an [accessibility statement](https://www.w3.org/WAI/planning/statements/) for your WordPress website. 
 
 Customize the generated statement  to provide your contact information for feedback and describe your website’s current accessibility features. Note that in some situations you may be required to provide particular content in your accessibility statements. For example, there are [specific requirements for accessibility statements in relation to the EU Web Accessibility Directive](https://eur-lex.europa.eu/eli/dec_impl/2018/1523/oj).
 
 The Accessibility Statement Feature plugin works in a similar way as the [WordPress Privacy Policy Tool](https://wordpress.org/support/article/wordpress-privacy/#privacy-policy-editing-helper). Select an existing page to use with the generated content, or create a new page as needed.  
 
-### Q: How can I improve my site’s accessibility??
+### Q8: How can I improve my site’s accessibility??
 
 First of all, thank you for investing your time and effort to make your site accessible! The best place to start is by familiarizing yourself with the [Web Accessibility Standards](https://www.w3.org/WAI/standards-guidelines/) developed by the [W3C](https://www.w3.org/WAI/), starting with [Accessibility Fundamentals](https://www.w3.org/WAI/fundamentals/). Then, you can start identifying elements of your site to upgrade.  The W3C offers a [collection of tutorials](https://www.w3.org/WAI/tutorials/) that demonstrate how to develop web content that is accessible to people with disabilities, and that provides a better user experience for everyone. There are also a variety of Web [Accessibility Evaluation Tools](https://www.w3.org/WAI/test-evaluate/tools/selecting/) which can also help you get started. 
 
 And of course, the WordPress Accessibility team has resources that can help! Visit the [Make WordPress Accessibility Handbook](https://make.wordpress.org/accessibility/handbook/) to learn about the team’s collection of best practices for web accessibility, tools, the testing we do to improve WordPress, themes, plugins, and how to get involved in WordPress Accessibility! 
 
-### Q: How can I contribute to improving the accessibility of WordPress?
+### Q9: How can I contribute to improving the accessibility of WordPress?
 
-We’re so glad you are interested in contributing! To get started  checkout the [Accessibility Team’s guide](https://make.wordpress.org/accessibility/handbook/get-involved/) on how to get involved. 
+A. We’re so glad you are interested in contributing! To get started  checkout the [Accessibility Team’s guide](https://make.wordpress.org/accessibility/handbook/get-involved/) on how to get involved. 
 
- 
 Other quick ways to [get involved in making WordPress Accessible](https://make.wordpress.org/accessibility/handbook/get-involved/): 
  See the [accessibility related active tickets](https://make.wordpress.org/accessibility/handbook/get-involved/tickets-tasks-reports/)
  [Create a new  Accessibility ticket](https://core.trac.wordpress.org/newticket) 
@@ -66,7 +65,7 @@ Other quick ways to [get involved in making WordPress Accessible](https://make.w
 And, if you’re a Twitter user, you can follow and contact via the [@WPAccessibility](https://twitter.com/WPAccessibility) account (https://twitter.com/WPAccessibility).
 
 
-### Q: How do I move meta boxes with my keyboard?
+### Q10: How do I move meta boxes with my keyboard?
 A: More information is available in this [Dev-Note](https://wp.me/p2AvED-lGO) 
 
 [Keyboard shortcuts](https://developer.wordpress.org/block-editor/components/keyboard-shortcuts/)
