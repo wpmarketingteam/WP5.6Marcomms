@@ -27,6 +27,7 @@ The application passwords feature in WordPress 5.6 allows applications to use [B
 
 ### Q3. Is the existing cookie-based authentication being removed?
 A. No. The existing cookie-based authentication system is not being removed. All  properly implemented authentication solutions provided by plugins will continue to operate normally.
+
 [Developer information on using the REST API Authentication](https://developer.wordpress.org/rest-api/using-the-rest-api/authentication/)
  
 [Information on related functions](https://developer.wordpress.org/reference/functions/wp_set_auth_cookie/)
