@@ -19,6 +19,14 @@ If you follow the WCAG guidelines as you create content for your site, you can h
 A: Twenty Twenty One is the bundled theme in WordPress 5.6. 
 This default Twenty Twenty One theme puts accessibility at the heart of your website. It conforms to the WordPress accessibility-ready guidelines and addresses several more specialized standards from the [Web Content Accessibility Guidelines (WCAG) 2.1 at level AAA](https://www.w3.org/WAI/WCAG2AAA-Conformance). It will help you meet the highest level of international accessibility standards when you create accessible content and choose plugins which are accessible too!
 
+### Q3: I am using the Twenty Twenty-One theme. Does this mean that the plugins I am using are ready for WCAG 2.1 AAA compliance?
+A. While the Twenty Twenty-One theme will help you meet the highest level of international accessibility standards, content and plugins may not always conform to these standards. We recommend [writing accessible content](https://www.w3.org/WAI/tips/writing/) and choosing plugins that claim to be accessible as a first step. 
+
+Choose plugins carefully. [The WordPress Accessibility Team](https://make.wordpress.org/accessibility/) suggests users check each plugin and not rely on the plugins’ own description. You should be extra cautious of plugins that create interactive elements (such as carousels, sliders, dropdowns, menus, pop-ups, accordions, and tabs) as they are not often coded with accessibility in mind.  
+
+As you add to your site, continue to [test and evaluate your site’s web accessibility](https://www.w3.org/WAI/test-evaluate/) to ensure it continues to conform to the standard level your site aims to meet. 
+
+
 ### Q: How do I move meta boxes with my keyboard?
 A: More information is available in this [Dev-Note](https://wp.me/p2AvED-lGO) 
 
