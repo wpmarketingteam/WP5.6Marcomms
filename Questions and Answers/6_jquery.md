@@ -17,19 +17,39 @@ The WordPress Core team recommends that you install the jQuery Migrate plugin if
 
 ## Questions and Answers - aimed at supporting Non-Developers 
 
-### Q. How do I make sure I’m ready for the full Jquery update? 
+### Q1  After updating to the 5.6 version of WordPress I am experiencing issues with unexpected behavior on my site. What can I do about these issues?
+
+: If you updated to WordPress 5.6, and you are experiencing issues with scripts on your site, such as being unable to save changes to the WordPress Dashboard, broken sliders or buttons that are unclickable, there are a few things you can try. 
+
+The WordPress.org Core team developed a plugin that can help mitigate these issues by re-enabling the first file that was removed in WordPress 5.5, giving plugin and theme authors time to perform the needed updates. This plugin is called “Enable jQuery Migrate Helper” and can be found at: https://wordpress.org/plugins/enable-jquery-migrate-helper/.  After installing this plugin, many people have found that a lot of the errors developed during the 5.6 update disappear. If you want to get ready for the updates you can do so by making sure your site is compatible with the full jQuery update. 
+
+![Enable jQuery Migrate Helper plugin settins page](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/jquery-migrate-plugin.png  "Enable jQuery Migrate Helper plugin settins page")
+After installation of the plugin to reverse changes in WordPress 5.6, you need to go to “Dashboard > Tools > jQuery Migrate” and change jQuery Version to “Legacy 1.12.4-wp”.
+
+### Q2. How do I make sure my site is ready for the full jQuery update? 
 
 A: To test your site ready for jQuery:
-1. Please make sure you first install the jQuery Migrate plugin: https://wordpress.org/plugins/enable-jquery-migrate-helper/
-2. Then install the jQuery update text plugin: https://wordpress.org/plugins/wp-jquery-update-test/ 
-3. Now you need to configure the plugin by going to Plugins -> Test jQuery Updates 
-4. In the Test jQuery Updates plugin, set the options as below:
- - jQuery version: Default (This will be the default jQuery version used in the WordPress Core)
- - jQuery Migrate: Disable (Keep it disabled for WordPress 5.5.)
+1. Install and activate the “Test jQuery Updates” plugin: https://wordpress.org/plugins/enable-jquery-migrate-helper/
+2. Configure the plugin by going to Plugins -> Test jQuery Updates in your WordPress site’s admin panel (dashboard): https://wordpress.org/plugins/wp-jquery-update-test/ 
+3. In the “Test jQuery Updates” plugin, set the options as below:
+ - jQuery version: leave it at the default 
+ - jQuery Migrate: Disable
  - jQuery UI version: Default
 
-More information on how to do this can be found on the plugin page: 
-https://wordpress.org/plugins/wp-jquery-update-test/
+All of these tests should be done on a staging or development site, so you don’t break your live site. 
+
+More information on how to do this can be found on the plugin page. [https://wordpress.org/plugins/wp-jquery-update-test/](https://wordpress.org/plugins/wp-jquery-update-test/)
+
+
+
+
+
+
+
+
+
+
+
 
 ### Q. How can I help test this? 
 A: You can follow the guide laid out here: https://make.wordpress.org/core/2020/06/29/updating-jquery-version-shipped-with-wordpress/ 
