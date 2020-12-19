@@ -32,6 +32,18 @@ A: You can start checking for web accessibility by using the [Accessibility Team
 ### Q: Where can I find themes that have an accessibility focus?
 A: A list of accessible themes can be found in the WordPress Themes Repository that include the [accessibility-ready](https://wordpress.org/themes/tags/accessibility-ready/) tag. 
 
+### Q: What is an ‘Accessibility Statement’, and why do I need one on my website?
+A: An accessibility statement is a page on your website that explains the level of web accessibility that your site aims to achieve and includes an overview of its current accessibility features. 
+
+An accessibility statement is an asset to your site because not only do you show that you care about accessibility and your site visitors, you provide helpful information about the accessibility of your content. In other cases, you may be required to provide an accessibility statement. This W3C list of [Web Accessibility Laws and Policies](https://www.w3.org/WAI/policies/) can help you figure out if those instances apply to your site. 
+More information on [Accessibility Statements](https://www.w3.org/WAI/planning/statements/).
+
+### Q: What is the ‘Accessibility Statement Feature’ plugin, and how do I use it? 
+A: The Accessibility Statement Feature Plugin helps you show visitors you care about making your site accessible and explains functionality and known limitations in common terms. The plugin generates the content structure of an [accessibility statement](https://www.w3.org/WAI/planning/statements/) for your WordPress website. 
+Customize the generated statement  to provide your contact information for feedback and describe your website’s current accessibility features. Note that in some situations you may be required to provide particular content in your accessibility statements. For example, there are [specific requirements for accessibility statements in relation to the EU Web Accessibility Directive](https://eur-lex.europa.eu/eli/dec_impl/2018/1523/oj).
+The Accessibility Statement Feature plugin works in a similar way as the [WordPress Privacy Policy Tool](https://wordpress.org/support/article/wordpress-privacy/#privacy-policy-editing-helper). Select an existing page to use with the generated content, or create a new page as needed.  
+ 
+
 
 ### Q: How do I move meta boxes with my keyboard?
 A: More information is available in this [Dev-Note](https://wp.me/p2AvED-lGO) 
