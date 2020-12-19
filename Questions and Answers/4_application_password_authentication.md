@@ -38,7 +38,7 @@ A. Any developer building API integrations to connect with a WordPress site will
 
 
 ### Q5. How does the application passwords feature integrate with third party sites?
-A. The application passwords feature provides a path through which an offsite API provider can redirect the WordPress user to log into their WordPress admin and create an application password with the correct UUID and name of your application, a success redirect, and a fail redirect. For more information how this is done,, [view this example](https://gist.github.com/georgestephanis/44d16dfdd17bd18b9c45d1d5e6d7ec7b). More information is available in the [Application Passwords Integration Guide](https://make.wordpress.org/core/2020/11/05/application-passwords-integration-guide/).
+A. The application passwords feature provides a path through which an offsite API provider can redirect the WordPress user to log into their WordPress admin and create an application password with the correct UUID and name of your application, a success redirect, and a fail redirect. For more information how this is done, [view this example](https://gist.github.com/georgestephanis/44d16dfdd17bd18b9c45d1d5e6d7ec7b). More information is available in the [Application Passwords Integration Guide](https://make.wordpress.org/core/2020/11/05/application-passwords-integration-guide/).
 
 Additionally, applications can begin to use your WordPress site as a SAML Single Sign on (SSO) option alternative to other popular SSO options like Google, Facebook, and Amazon. In other words, if you wanted to use your WordPress application passwords feature to authorize and log into other apps, this could be possible if the external app chooses to integrate with WordPress and offer that option.
 
