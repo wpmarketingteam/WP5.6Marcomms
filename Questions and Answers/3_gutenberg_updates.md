@@ -114,9 +114,6 @@ Block patterns were introduced in WordPress Release 5.5. More on the block patte
 ***
 
 
-***
-
-
 #### Thanks to all members of the release squad, [Angela Jin](https://profiles.wordpress.org/angelasjin/), [Daisy Olsen](https://profiles.wordpress.org/daisyo/), [Anne McCarthy](https://profiles.wordpress.org/annezazu/), [Dika Fei](https://profiles.wordpress.org/jellypixel/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Olga Glekler](https://profiles.wordpress.org/oglekler/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/) and [Meher Bala](https://profiles.wordpress.org/meher/), for researching and working on this document, and to the teams that provided assistance. 
 
 
