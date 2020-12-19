@@ -1,5 +1,5 @@
 # WP5.6 Marcomms
-These are in draft and based on the information on WordPress.org. 
+These are in draft and in the progress of being finalized. Thank you to members of the release, trac ticket owners, and members of the WordPress teams that have been involved in researching, providing information, cross-checking and more for this resource to help support the latest release. 
 
 ### Questions and Answers for Dev and Non-Dev
 
