@@ -17,5 +17,5 @@ These are in draft and in the progress of being finalized. Thank you to members 
 
 7) [oEmbed updates](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/7_oembed_updates.md)
 
-8) [PHP 8 Support](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/8_php8_support.md)
+8) [PHP 8.0 Support](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/8_php8_support.md)
 
