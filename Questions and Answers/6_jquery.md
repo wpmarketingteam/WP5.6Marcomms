@@ -40,48 +40,14 @@ All of these tests should be done on a staging or development site, so you don�
 
 More information on how to do this can be found on the plugin page. [https://wordpress.org/plugins/wp-jquery-update-test/](https://wordpress.org/plugins/wp-jquery-update-test/)
 
-
-
-
-
-
-
-
-
-
-
-
-### Q. How can I help test this? 
-A: You can follow the guide laid out here: https://make.wordpress.org/core/2020/06/29/updating-jquery-version-shipped-with-wordpress/ 
-If you run into any issues that aren’t already documented please reach out on the core.trac ticket: https://core.trac.wordpress.org/ticket/50564
-
 ***
 
 ## Questions and Answers - aimed at supporting Developers 
 
-### Q: Why is WordPress updating jQuery?
-A: WordPress is planning during the three releases 5.5, 5.6 and 5.7 to phase out an old, unsupported version of the popular front-end JavaScript library “jQuery”. 
+### Q1: Why is WordPress updating jQuery?
+A: WordPress is phasing out an old, unsupported version of the popular front-end JavaScript library “jQuery” across three releases: 5.5, 5.6 and 5.7. This is so that WordPress stays up to date with the latest jQuery versions, which will enable WordPress to patch and keep up with  security issues. 
 
-During this transition period, Plugin and theme authors are obliged to take it upon themselves to update their own themes / plugins to the latest version of jQuery, this may cause some issues.
-
-### Q: After updating to  the 5.6 version of WordPress I am experiencing issues regarding scripts and the unexpected behavior of elements on my site. What do I need to do?
-
-A: I updated to WordPress 5.6 and now something went wrong with scripts on my site
- - I updated to WordPress 5.6 and now I cannot save anything in the admin
- - I updated to WordPress 5.6 and sliders on my pages don’t work
- - ETC
- 
-The WordPress.org core team has put together a plugin to re-enable the first file that was removed in 5.5 to help mitigate these issues and give the plugin and theme authors time to perform the needed updates. This plugin is called “Enable jQuery Migrate Helper” and can be found at: https://wordpress.org/plugins/enable-jquery-migrate-helper/
-After installing this plugin, many people have found that a lot of the errors they have developed during the 5.5 update have disappeared.
-
-![Enable jQuery Migrate Helper plugin settins page](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/jquery-migrate-plugin.png  "Enable jQuery Migrate Helper plugin settins page")
-
-
-After installation of the plugin to reverse changes in WordPress 5.6, you need to go to “Dashboard > Tools > jQuery Migrate” and change jQuery Version to “Legacy 1.12.4-wp”. 
-
-
-### Q: How do I make sure my plugins / themes are ready for the new jQuery version? 
-A: You need to ensure that any jQuery you wrote is compatible with jQuery version 3.3.2, the WordPress core team are putting together a three step plan to help you, you can find more information here:  https://make.wordpress.org/core/2020/11/05/updating-core-jquery-to-version-3-part-2/
+During this transition period, the WordPress Core Team asks plugin and theme authors to help by updating their own plugins and themes to the latest version of jQuery.
 
 
 ***
