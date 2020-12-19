@@ -13,6 +13,7 @@ https://make.wordpress.org/core/2020/11/24/core-major-versions-auto-updates-ui-c
 
 ### Q1. What does “Automatic Updates for major WordPress Core releases” mean for my website?
 A. Automatic updates, often referred to as auto-updates, enables WordPress software to update itself to the latest version automatically. This means you will not need to check and install updates manually! Currently, and since version 3.7, WordPress by default will auto-update for minor releases. With the latest release of WordPress software, version 5.6, WordPress can  be configured to automatically update for major versions as well.
+
 With 5.6, WordPress users will be able to opt-in or out of auto-updates for major WordPress software releases. This is done through the Updates screen in your WordPress Dashboard, and any site administrator can manage this new feature.
 
 ![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/core-major-auto-updates-enabled-manually.png "Auto updates enabled manually Screenshot")
@@ -49,7 +50,8 @@ A. After a new version of WordPress is released, it will take no longer than 12 
 
 
 ### Q9.  I opted-in to auto-updates but they don’t work?
-A.  WordPress uses a tool called “WP Cron”, which handles scheduled events (such as regularly checking for the latest version of WordPress software!) for your website. If your auto-updates aren’t working,  You can check whether WP Cron is enabled via the site health  under dashboard tools as seen in this photo: 
+A.  WordPress uses a tool called “WP Cron”, which handles scheduled events (such as regularly checking for the latest version of WordPress software!) for your website. If your auto-updates aren’t working,  You can check whether WP Cron is enabled via the site health  under dashboard tools as seen in this photo.
+
 ![alt text](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/images/auto-update-site-health-wp-cron-disabled.png "Shows the site health.")
 
 
