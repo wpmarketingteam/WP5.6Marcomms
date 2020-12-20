@@ -56,8 +56,7 @@ A. Once daily, the [WordPress Application Passwords class](https://github.com/Wo
 
 
 ### Q9. Is there a difference in permissions between a normal password and a new Application Password?
-There is no difference in permissions. The permissions granted to any application via an application password are inherited from the user granting the application password. 
-
+A. Application passwords can only be used via the REST API and are subject to any customizations or limitations your site admininstrator has already put into place for the REST API. Permissions granted to an application via an application password are inherited from the user granting the application password. Scoping or limiting the permissions a user grants when a password is created has been proposed to be included as a feature enhancement within a future release. If you would like to contribute to the development of application password scoping, please visit the github repository for the [plugin development](https://github.com/WordPress/application-passwords) which will be used to test and develop core features.
 
 ### Q10. How can a plugin developer add to or change information about each application password and/or the usage of each application password?
 A. Each application password is assigned a UUID which can be used by a plugin developer to store additional information.
