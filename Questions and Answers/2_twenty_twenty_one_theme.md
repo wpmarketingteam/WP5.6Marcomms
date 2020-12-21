@@ -1,6 +1,6 @@
 **Status: Version 2020/12/19. This is being finalized with the Release Squad.**
 
-# Twenty Twenty-One Theme 
+# Twenty Twenty-One Default Theme 
 
 Introducing Twenty Twenty-One which is the default theme with this release.
 https://make.wordpress.org/core/2020/09/23/introducing-twenty-twenty-one/
@@ -8,7 +8,7 @@ https://make.wordpress.org/core/2020/09/23/introducing-twenty-twenty-one/
 
 ***
 
-## Questions and Answers - aimed at supporting non-developers 
+## Questions and Answers - aimed at supporting General Users 
 
 ### Q1. What is the difference between WordPress theme Twenty Twenty and Twenty Twenty-One?
 A. Both themes have high levels of accessibility and performance and follow good practice. Just like other WordPress default themes, they receive the necessary updates to be fully compatible with the latest WordPress version.
