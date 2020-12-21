@@ -1,4 +1,4 @@
-**Status: Version 2020/12/07. This is being finalized with the release squad.**
+**Status: Version 2020/12/19. Additional items are being produced.**
 
 # Accessibility
 
@@ -74,14 +74,6 @@ A: More information is available in this [Dev-Note](https://wp.me/p2AvED-lGO)
 
 ***
 
-## Questions and Answers - aimed at supporting Non Developers 
-
-### 
-
-
-
-
-***
 
 
 
