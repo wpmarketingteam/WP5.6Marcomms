@@ -1,6 +1,6 @@
 **Status: Version 2020/12/19.**
 
-**This is being finalized with the Release Squad.**
+**More information is being finalized with the Release Squad.**
 
 # jQuery
 
@@ -17,7 +17,7 @@ The WordPress Core team recommends that you install the jQuery Migrate plugin if
 
 ***
 
-## Questions and Answers - aimed at supporting Non-Developers 
+## Questions and Answers - aimed at supporting General Users
 
 ### Q1  After updating to the 5.6 version of WordPress I am experiencing issues with unexpected behavior on my site. What can I do about these issues?
 
@@ -56,7 +56,7 @@ During this transition period, the WordPress Core Team asks plugin and theme aut
 ***
 
 
-#### Thanks to [Daisy Olsen](https://profiles.wordpress.org/vimes1984/), [Angela Jin](https://profiles.wordpress.org/angelasjin/), [Andrew Ozz](https://profiles.wordpress.org/azaozz/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Shanta R. Nathwani ](https://profiles.wordpress.org/vimes1984/), [Olga Gleckler](https://profiles.wordpress.org/vimes1984/), [Mark Smallman](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/vimes1984/), [Meher Bala](https://profiles.wordpress.org/vimes1984/) for researching and working on this document, and to the teams that provided assistance. Thanks to and all the release squad members who have provided input.
+#### Thanks to  [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Andrew Ozz](https://profiles.wordpress.org/azaozz/), [Daisy Olsen](https://profiles.wordpress.org/vimes1984/), [Abha Thakor](https://profiles.wordpress.org/webscommsat/), [Olga Gleckler](https://profiles.wordpress.org/oglekler/), [Mark Smallman](https://profiles.wordpress.org/marks99/), [Meher Bala](https://profiles.wordpress.org/meherbala/), [Angela Jin](https://profiles.wordpress.org/angelasjin/), [Shanta R. Nathwani ](https://profiles.wordpress.org/tantienhime/) for researching and working on this document, and to the teams that provided assistance. Thanks to all the release squad members and WordPress.org teams who have provided input.
 
 
 
