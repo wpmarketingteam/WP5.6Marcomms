@@ -1,7 +1,9 @@
 # WP5.6 Marcomms
 These are in draft and in the progress of being finalized. Thank you to members of the release, trac ticket owners, and members of the WordPress teams that have been involved in researching, providing information, cross-checking and more for this resource to help support the latest release. 
 
-### Questions and Answers for Dev and Non-Dev
+On this version of GitHub, information for each audience appears on the topic page: Developers and General Users. The material will be split by audiences when it goes to the Dev Hub and HelpHub. 
+
+### Questions and Answers to support Developers and General Users 
 
 1) [Automatic updates for major WordPress Core releases](https://github.com/wpmarketingteam/WP5.6Marcomms/blob/master/Questions%20and%20Answers/1_automatic_updates.md)
 
