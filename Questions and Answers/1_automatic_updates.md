@@ -9,7 +9,7 @@ https://make.wordpress.org/core/2020/11/24/core-major-versions-auto-updates-ui-c
 
 ***
 
-## Questions and Answers - aimed at supporting Non-Developers 
+## Questions and Answers - aimed at supporting General Users
 
 ### Q1. What does “Automatic Updates for major WordPress Core releases” mean for my website?
 A. Automatic updates, often referred to as auto-updates, enables WordPress software to update itself to the latest version automatically. This means you will not need to check and install updates manually! Currently, and since version 3.7, WordPress by default will auto-update for minor releases. With the latest release of WordPress software, version 5.6, WordPress can  be configured to automatically update for major versions as well.
