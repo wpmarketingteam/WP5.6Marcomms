@@ -84,5 +84,5 @@ A. Application passwords can only be used via the REST API and are subject to an
 
 ***
 
-#### Thanks to [Meg Phillips](https://profiles.wordpress.org/megphillips91/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Meher Bala](https://profiles.wordpress.org/meher/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/), [Angela Jin](https://profiles.wordpress.org/angelasjin/), [Daisy Olsen](https://profiles.wordpress.org/daisyo/) and all those who have provided information from the release squad.
+#### Thanks to [Meg Phillips](https://profiles.wordpress.org/megphillips91/), [Christopher Churchill](https://profiles.wordpress.org/vimes1984/), [Meher Bala](https://profiles.wordpress.org/meher/), [Abha Thakor](https://profiles.wordpress.org/webcommsat/), [Angela Jin](https://profiles.wordpress.org/angelasjin/), [Daisy Olsen](https://profiles.wordpress.org/daisyo/), [Olga Glekler](https://profiles.wordpress.org/oglekler/) and all those who have provided information from the release squad.
 
